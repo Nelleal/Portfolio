@@ -1,0 +1,1658 @@
+﻿Log file open, 12/12/22 01:38:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TestButton
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266522
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7640X CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE4_Sample/UE4.23/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.11-16.38.06:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:784][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:791][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.11-16.38.06:791][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.11-16.38.06:792][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.11-16.38.06:792][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.11-16.38.06:792][  0]LogHAL: Display: Platform has ~ 16 GB [17128886272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.11-16.38.06:792][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.11-16.38.06:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.11-16.38.06:793][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.11-16.38.06:793][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.11-16.38.06:794][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.11-16.38.06:794][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.11-16.38.06:794][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.11-16.38.06:794][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Editor.ini]
+[2022.12.11-16.38.06:794][  0]LogInit: Computer: DESKTOP-9M6H3KA
+[2022.12.11-16.38.06:794][  0]LogInit: User: Andrey
+[2022.12.11-16.38.06:794][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.11-16.38.06:794][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.11-16.38.06:794][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.12.11-16.38.06:794][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.11-16.38.06:794][  0]LogMemory: Process Physical Memory: 138.62 MB used, 138.62 MB peak
+[2022.12.11-16.38.06:794][  0]LogMemory: Process Virtual Memory: 117.73 MB used, 117.73 MB peak
+[2022.12.11-16.38.06:794][  0]LogMemory: Physical Memory: 9986.72 MB used,  6348.66 MB free, 16335.38 MB total
+[2022.12.11-16.38.06:794][  0]LogMemory: Virtual Memory: 134208032.00 MB used,  9693.38 MB free, 134217728.00 MB total
+[2022.12.11-16.38.06:800][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.11-16.38.06:864][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.11-16.38.06:865][  0]LogInit: Using OS detected language (ru-RU).
+[2022.12.11-16.38.06:865][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.12.11-16.38.06:866][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.12.11-16.38.06:866][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.12.11-16.38.06:866][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.12.11-16.38.06:866][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.12.11-16.38.06:866][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.12.11-16.38.06:867][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.12.11-16.38.06:867][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.12.11-16.38.06:867][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.12.11-16.38.06:867][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.11-16.38.06:877][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.11-16.38.06:901][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.11-16.38.06:901][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.11-16.38.07:073][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.11-16.38.07:073][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.11-16.38.07:073][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.11-16.38.07:073][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.11-16.38.07:190][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.12.11-16.38.07:190][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.11-16.38.07:193][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.11-16.38.07:193][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.11-16.38.07:193][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.11-16.38.07:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.11-16.38.07:199][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.11-16.38.07:199][  0]LogWindows: EnumDisplayDevices:
+[2022.12.11-16.38.07:199][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.12.11-16.38.07:200][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.11-16.38.07:200][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.11-16.38.07:200][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.11-16.38.07:200][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.11-16.38.07:200][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.12.11-16.38.07:200][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.11-16.38.07:200][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.12.11-16.38.07:200][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.12.11-16.38.07:260][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.11-16.38.07:260][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.11-16.38.07:260][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.11-16.38.07:288][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.11-16.38.07:291][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.11-16.38.07:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.11-16.38.07:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.11-16.38.07:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.11-16.38.07:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.11-16.38.07:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.11-16.38.07:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.11-16.38.07:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.11-16.38.07:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.11-16.38.07:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.11-16.38.07:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.11-16.38.07:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.11-16.38.07:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.11-16.38.07:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.11-16.38.07:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.11-16.38.07:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.11-16.38.07:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.11-16.38.07:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.11-16.38.07:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.11-16.38.07:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.11-16.38.07:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.11-16.38.07:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.11-16.38.07:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.11-16.38.07:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.11-16.38.07:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.11-16.38.07:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.11-16.38.07:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.11-16.38.07:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.11-16.38.07:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.11-16.38.07:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.11-16.38.07:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.11-16.38.07:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.11-16.38.07:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.11-16.38.07:819][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.11-16.38.07:828][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.11-16.38.07:898][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.11-16.38.07:898][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../UE4_Project/TestButton/TestButton/Intermediate/Shaders/WorkingDirectory/7336/).
+[2022.12.11-16.38.07:898][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Андрей/AppData/Local/Temp/UnrealShaderWorkingDir/DCB78B7148DBBA622CF8A48ACC51AC84/'.
+[2022.12.11-16.38.07:898][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.11-16.38.07:898][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.11-16.38.08:565][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.11-16.38.08:620][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Андрей/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.11-16.38.08:620][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Андрей/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.12.11-16.38.08:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE4_Project/TestButton/TestButton/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.11-16.38.08:621][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.11-16.38.08:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE4_Project/TestButton/TestButton/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.11-16.38.08:621][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.11-16.38.08:631][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.11-16.38.08:631][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.11-16.38.08:631][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.11-16.38.08:641][  0]LogDerivedDataCache: Speed tests for C:/Users/Андрей/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.11-16.38.08:641][  0]LogDerivedDataCache: Display: Performance to C:/Users/Андрей/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=566.30MBs, RandomWriteSpeed=130.72MBs. Assigned SpeedClass 'Local'
+[2022.12.11-16.38.08:642][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Андрей/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.11-16.38.08:642][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.11-16.38.08:642][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.11-16.38.08:682][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.11-16.38.08:683][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.11-16.38.08:709][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.12.11-16.38.08:903][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.11-16.38.08:903][  0]LogInit: Active device profile: [0000013D95425B00][0000013D8672C5C0 49] Windows
+[2022.12.11-16.38.08:903][  0]LogInit: Profiles: [0000013D95425B00][0000013D8672C5C0 49] Windows, [0000013D953FE700][0000013D86734740 49] WindowsNoEditor, [0000013D95425C00][0000013D867388C0 49] WindowsServer, [0000013D953FE800][0000013D8673CA40 49] WindowsClient, [0000013D95424E00][0000013D86740BC0 49] IOS, [0000013D953FF700][0000013D86744D40 49] iPadAir, [0000013D95427000][0000013D92B02EC0 49] iPadAir2, [0000013D953B2B00][0000013D92B0B180 49] IPadPro, [0000013D953B2C00][0000013D92B071C0 49] iPadAir3, [0000013D95425200][0000013D92B0F340 49] iPadAir4, [0000013D953B2800][0000013D92B134C0 49] iPadMini2, [0000013D95427100][0000013D92B17640 49] iPadMini3, [0000013D953B1800][0000013D86731780 49] iPadMini4, [0000013D95426A00][0000013D92B1B8C0 49] iPadMini5, [0000013D953F6400][0000013D92B27B40 49] iPhone6, [0000013D953F6500][0000013D92B1FB80 49] iPodTouch6, [0000013D953FC200][0000013D92B2E180 49] iPhone7, [0000013D953FC500][0000013D92B2A1C0 49] iPodTouch7, [0000013D953F7C00][0000013D92B32340 49] iPhone5S, [0000013D953FFF00][0000013D92B364C0 49] iPhone6Plus, [0000013D953F5600][0000013D92B3A640 49] iPhone6S, [0000013D953FDE00][0000013D92B3E7C0 49] iPhone6SPlus, [0000013D953F4700][0000013D92B42940 49] iPhone7Plus, [0000013D953FD100][0000013D92B46AC0 49] iPhoneSE, [0000013D953F7400][0000013D92B4AC40 49] iPhone8, [0000013D953FE200][0000013D92B4EDC0 49] iPhone8Plus, [0000013D953F4400][0000013D92B52F40 49] iPhoneX, [0000013D953FEC00][0000013D92B570C0 49] iPhoneXS, [0000013D953F7000][0000013D92B5B240 49] iPhoneXSMax, [0000013D953FD500][0000013D92B5F3C0 49] iPhoneXR, [0000013D953F4D00][0000013D92B63540 49] iPhone11, [0000013D953FCC00][0000013D92B676C0 49] iPhone11Pro, [0000013D953F7200][0000013D92B23800 49] iPhone11ProMax, [0000013D953FFA00][0000013D92B6B940 49] iPhoneSE2, [0000013D953F5F00][0000013D92B6FA80 49] iPhone12Mini, [0000013D953FC100][0000013D92B77C00 49] iPhone12, [0000013D953F6C00][0000013D92B7A0C0 49] iPhone12Pro, [0000013D953FE400][0000013D934B2240 49] iPhone12ProMax, [0000013D95424A00][0000013D934B63C0 49] iPadPro105, [0000013D953F5900][0000013D934BA540 49] iPadPro129, [0000013D95426D00][0000013D934BE6C0 49] iPadPro97, [0000013D953F4E00][0000013D934C2840 49] iPadPro2_129, [0000013D95425900][0000013D934C69C0 49] iPad5, [0000013D953F6E00][0000013D934CAB40 49] iPad6, [0000013D95427300][0000013D934CECC0 49] iPad7, [0000013D953FD800][0000013D934D2E40 49] iPad8, [0000013D95424700][0000013D934D6FC0 49] iPadPro11, [0000013D953FCB00][0000013D934DB140 49] iPadPro2_11, [0000013D95427200][0000013D934DF2C0 49] iPadPro3_129, [0000013D953FC300][0000013D934E3440 49] iPadPro4_129, [0000013D95424400][0000013D934E75C0 49] AppleTV, [0000013D953FEB00][0000013D934EB740 49] AppleTV4K, [0000013D95426500][0000013D92B73880 49] TVOS, [0000013D953FFB00][0000013D934EF9C0 49] Mac, [0000013D95424B00][0000013D934F3B00 49] MacClient, [0000013D953FF000][0000013D934F7C40 49] MacNoEditor, [0000013D95425D00][0000013D934FE100 49] MacServer, [0000013D953FDB00][0000013D93502280 49] Linux, [0000013D95427400][0000013D93506400 49] LinuxAArch64, [0000013D953FF100][0000013D9350A580 49] LinuxNoEditor, [0000013D95424900][0000013D9350E700 49] LinuxAArch64NoEditor, [0000013D953FC900][0000013D93512880 49] LinuxClient, [0000013D95425000][0000013D93516A00 49] LinuxAArch64Client, [0000013D953FDA00][0000013D9351AB80 49] LinuxServer, [0000013D95425400][0000013D9351ED00 49] LinuxAArch64Server, [0000013D953FED00][0000013D93522E80 49] Android, [0000013D95425500][0000013D93527000 49] Android_Low, [0000013D953FC800][0000013D9352B180 49] Android_Mid, [0000013D95426100][0000013D9352F300 49] Android_High, [0000013D953FCA00][0000013D93533480 49] Android_Default, [0000013D95425F00][0000013D93537600 49] Android_Adreno4xx, [0000013D953FF400][0000013D9353B780 49] Android_Adreno5xx_Low, [0000013D95426400][0000013D934FB8C0 49] Android_Adreno5xx, [0000013D953FDC00][0000013D9353FA00 49] Android_Adreno6xx, [0000013D95427B00][0000013D93543B40 49] Android_Adreno6xx_Vulkan, [0000013D953FCF00][0000013D93547C80 49] Android_Mali_T6xx, [0000013D95427500][0000013D9354E140 49] Android_Mali_T7xx, [0000013D953FE100][0000013D935522C0 49] Android_Mali_T8xx, [0000013D95426B00][0000013D93556440 49] Android_Mali_G71, [0000013D953FFC00][0000013D9355A5C0 49] Android_Mali_G72, [0000013D95424300][0000013D9355E740 49] Android_Mali_G72_Vulkan, [0000013D953FEE00][0000013D935628C0 49] Android_Mali_G76, [0000013D95424D00][0000013D93566A40 49] Android_Mali_G76_Vulkan, [0000013D953FE600][0000013D9356ABC0 49] Android_Mali_G77, [0000013D95426E00][0000013D9356ED40 49] Android_Mali_G77_Vulkan, [0000013D953FDD00][0000013D93572EC0 49] Android_Vulkan_SM5, [0000013D95426300][0000013D93577040 49] Android_PowerVR_G6xxx, [0000013D953FD400][0000013D9357B1C0 49] Android_PowerVR_GT7xxx, [0000013D953B1E00][0000013D9357F340 49] Android_PowerVR_GE8xxx, [0000013D953F4F00][0000013D935834C0 49] Android_PowerVR_GM9xxx, [0000013D953B0800][0000013D93587640 49] Android_PowerVR_GM9xxx_Vulkan, [0000013D953F4800][0000013D9358B7C0 49] Android_TegraK1, [0000013D953B0100][0000013D9358F940 49] Android_Unknown_Vulkan, [0000013D953F5300][0000013D9354BA80 49] Lumin, [0000013D953B3200][0000013D93593BC0 49] Lumin_Desktop, [0000013D953F4300][0000013D93597D00 49] HoloLens, 
+[2022.12.11-16.38.09:096][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.11-16.38.09:096][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.11-16.38.09:096][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.11-16.38.09:096][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.11-16.38.09:096][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.11-16.38.09:112][  0]LogNetVersion: TestButton 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 305645686)
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/AddVelocity.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/AddVelocityFromPoint.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/AlignSpriteToMeshOrientation.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/AngleUnitConverter.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ApplyInitialForces.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ApplyRotationVector.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Beta_HighLimbsGeoSG3.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/AxisAngleToQuaternion.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Beta_Joints_MAT1.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateA_VolumeTexturesDistanceFieldGradient.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateMeshRadius.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRadiusFromSpriteSize.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomBool.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomPointInConeSphereIntersection.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomPointInSphere.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomRange.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomRangeFloat.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomRangeInteger.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CalculateRandomUnitVector.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CameraOffset.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CentimeterMeterConversion.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Collision.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CollisionQueryAndResponse.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ConeMask.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ConvertVectorToPosition.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CoreParameters.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CurlNoiseForce.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/CylinderLocation.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/DirectionAndLengthSafe.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/DistanceBasedFalloff.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/DoOnce_fn.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Drag.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/DustWave.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/DynamicMaterialParameters.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/EmitterChangeState.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/EmitterState.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraBoneSamplingMode.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraBoneSocketSamplingMode.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraCalculateRadiusOptions.uasset is too old
+[2022.12.11-16.38.16:114][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraChannelCorrelation.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraCurlNoiseQuality.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraCollisionRadiusOptions.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraEmitterLifeCycleMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraExecutionStateManagement.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraExpansionMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraEmitterScalabilityMode_Limited.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraFrictionMergeType.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraInactiveMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraMeshTransforms.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraRandomnessEvaluation.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraRandomnessMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraRestitutionMergeType.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraRingDiscMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraScaleColorMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraShapeTorusMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraSkelMeshPositionSamplingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraSkelMeshTransforms.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraSkelSamplingModeFull.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraSocketSamplingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraSphereDistributionMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraSystemInactiveMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraTorusDistributionMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraVector4_Channels.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraTriangleSamplingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagaraVertexSamplingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_AngleInput.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_AttributeSamplingApplyOutput.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_BoxPlaneMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_ColorInitializationMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_ConeMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_CylinderMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_CPUCollisionType.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_DirectReadApplicationMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_DirectReadParticleIDSampling.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_DirectReadSamplingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_EmitterLocSamplingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_EmitterStateOptions.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_Float4Channel.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_GPUCollisionType.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_LifetimeInheritanceOptions.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_InfiniteLoopDuration.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_LifetimeMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_LocationShapes.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_LWCConvertVecToPos.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_MassInitializationMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_MeshOrientationOptions.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_OffsetMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_PositionInitializationMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_RotationMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_ScaleMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_ScaleSpriteSize.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_SizeScaleMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_SpriteRotationMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_SubUVLookupMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_TransformOrder.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_TransformType.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_UnsetDirectSet.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_UnsetDirectSetRandom.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_UVFlippingMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ENiagara_VelocityMode.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/FindAngleBetweenVectors.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/FloatFromCurve.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/FindQuatBetween.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/GetRandomInfo.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/GravityForce.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/HueShiftLinearColor.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/InitializeParticle.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/InitialMeshOrientation.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/InvertQuaternion.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/IsolateLongestVectorComponent.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MakeQuaternionFrom3BasisVectors.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MakeVector.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MakeVector2D.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MatrixToQuaternion.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MeshRenderer.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MF_HexagonCell.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MF_MaskG.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MF_MaskR.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_FireAnimation01_Ignite.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_Frostbite02_Unit.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_ShockwaveNoise_SpawnUnit.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_ShockwaveNoise_UmfreyJudgmentsOfTheWise_Cast.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_ShockwaveNoise_UmfreyJudgmentsOfTheWise_Slam.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_ShockwaveNoise_UmfreyPureOfHeart.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MI_SphereEdge02.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MultiplyQuaternion.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/MultiplyVectorWithQuaternion.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Multiply_Float.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Multiply_Int.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_BeamEnergy.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Color.uasset is too old
+[2022.12.11-16.38.16:115][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Crack01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_CosmicClouds.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_FireAnimation01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Flare01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Hex.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Frostbite02.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Particle01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Radial.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_RuneGroundNoise.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_ShockwaveNoise01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Ring.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_ShockwaveNoise02.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_ShockwaveTexture01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Smoke02.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_SphereEdge01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Smoke01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_SphereEdge02.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Splash07.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Star01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Sunbeam01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Flare02.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_SuvSmoke01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_Swirl01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/M_WeaponSet_1.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NormalizedExecutionIndex.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NormalizeDistanceRange.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_DeathUnit_Freez.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NiagaraDistanceFieldCollisions.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_DeathUnit_Normal.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_GeneralDefence_Destroy.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_GeneralDefence_Effect.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_MouseHit.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_ParticleDisolveUnitDeath.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_RarityCircle.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SeFreez_Effect.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SeFreez_Destroy.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SeIgnite_Destroy.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SeIgnite_Effect.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SeIgnite_Impact.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SePoison_Destroy.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SePoison_Effect.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SePoison_Impact.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_SpawnUnit.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UmfreyHolyLight_Impact.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UmfreyHolyLight_Skillshot.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UmfreyJudgmentsOfTheWise_Cast.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UmfreyJudgmentsOfTheWise_Sword.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UmfreyJudgmentsOfTheWise_Slam.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UnitTurnCircle.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UmfreyPureOfHeart.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/NS_UnitTurnHex.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ParametricTorus.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ParametricTorusKnot.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ParticleState.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/PlaneSphereCollisionDetection.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/PolarToCartesianCoordinates.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ProjectVectorOnPlane.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/PositionToVector.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/PS_Mixamo.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomizeCollisionNormals.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomPointInBox.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomQuaternion.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomRangeFloat.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomRangeFloat_2.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomRangeInteger.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomRangeVector.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomUnitVector.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RandomVector.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ReflectVector.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RemapRange.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ReturnNormalizedExecIndex.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RibbonRenderer.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/RotateVector2D.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SampleParticlesFromOtherEmitter.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SaturateFloat.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ScaleColor.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ScaleMeshSize.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ScaleSpriteSize.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SceneDepthTest.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SelectV4Channel.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/ShapeLocation.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/Shape_Sphere.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SimulationPosition.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SkeletalMeshLocation.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SMNS_Cone.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Cyl.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Derbis_A.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Derbis_B.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Derbis_C.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Disc01.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Meteor_2.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_Mixamo.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_SwordBlade.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SM_SwordHilt.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SolveForcesAndVelocity.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SpawnBurst_Instantaneous.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SpawnParticlesFromOtherEmitter.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SpawnRate.uasset is too old
+[2022.12.11-16.38.16:116][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SphereLocation.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SphericalToCartesianCoordinates.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SpriteRenderer.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SpriteRotationRate.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SubUVAnimation.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SystemChangeState.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/SystemState.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/S_Mixamo.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TilingCurl16.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TilingCurl32.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TilingCurl64.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TransformBase.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TransformPosition.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TransformStack_Rotation.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_azCrack18.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/TransformVector.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_azCrack53.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_azFlareWhite1.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_azShockwave31.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_azSakuraWhite1.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_byWoodEffectD2FrameCrack1.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_byWoodEffectKofSequenceSmoke8x8.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_byWoodEffectD2GeosetEarth1.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Clouds.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_F1.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Flare0201.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Icon_Particle_InfiniteLife.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Icon_Solver_LimitAccel.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Icon_Solver_LimitSpeed.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Icon_Solver_RotationalSolve.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise02.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise04.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise05.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise06.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise09.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise_DistortedCaustic.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Noise14.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_PerlinNoiseCircle.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_PerlinNoiseCircle1.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_PerlinNoiseCrystal01.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_PerlinNoiseStrongSwirl.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_PerlinNoiseWeekSwirl.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_PnBnwSpots01.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Sky02.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Star02.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Weapon_Set1_BaseColor.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Weapon_Set1_Normal.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/T_White.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/VectorFromCurve.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/VectorFromFloat.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/VectorToPosition.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/XYZRotationToQuaternion.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/Migrated/VortexVelocity.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Map/Showcase_EnemyGoblin.umap is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/MF_ConvolveTexture.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/MF_ExtractDepth.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/MF_SampleSceneTextureNeighbourUVs.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/PP_Outliner_Blend_Inst.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/PP_Outliner_Inst_Green.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/PP_Outliner_Inst_Red.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/PP_Outliner_Inst_White.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/PP_Outliner_Inst_Yellow.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/_Project/Material/Outline/PP_Outliner_M.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Map/Showcase_EnemyGoblin_BuiltData.uasset is too old
+[2022.12.11-16.38.16:117][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.11-16.38.16:316][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.199185 seconds
+[2022.12.11-16.38.16:321][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.12.11-16.38.16:321][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.12.11-16.38.16:321][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.11-16.38.20:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.11-16.38.20:039][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.11-16.38.20:928][  0]SourceControl: Source control is disabled
+[2022.12.11-16.38.20:928][  0]SourceControl: Source control is disabled
+[2022.12.11-16.38.21:039][  0]SourceControl: Source control is disabled
+[2022.12.11-16.38.21:057][  0]SourceControl: Source control is disabled
+[2022.12.11-16.38.21:097][  0]SourceControl: Source control is disabled
+[2022.12.11-16.38.21:132][  0]LogUProjectInfo: Found projects:
+[2022.12.11-16.38.23:858][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.11-16.38.24:015][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.11-16.38.24:015][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.11-16.38.24:437][  0]LogCollectionManager: Loaded 0 collections in 0.001449 seconds
+[2022.12.11-16.38.24:516][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Saved/Collections/' took 0.00s
+[2022.12.11-16.38.24:516][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Content/Developers/Andrey/Collections/' took 0.00s
+[2022.12.11-16.38.24:516][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Content/Collections/' took 0.00s
+[2022.12.11-16.38.24:516][  0]LogOcInput: OculusInput pre-init called
+[2022.12.11-16.38.24:595][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.11-16.38.24:595][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.11-16.38.24:795][  0]LogEngine: Initializing Engine...
+[2022.12.11-16.38.24:796][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.11-16.38.24:797][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.11-16.38.24:797][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.11-16.38.24:959][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.11-16.38.25:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.11-16.38.25:023][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.11-16.38.25:072][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.11-16.38.25:072][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.11-16.38.25:072][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-16.38.25:072][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-16.38.25:073][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.11-16.38.25:073][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.11-16.38.25:117][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.11-16.38.25:117][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.11-16.38.25:270][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.11-16.38.25:272][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-16.38.25:275][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-16.38.25:275][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-16.38.25:276][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.11-16.38.25:276][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.11-16.38.25:276][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.11-16.38.25:305][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.11-16.38.25:305][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.11-16.38.25:305][  0]LogInit: FAudioDevice initialized.
+[2022.12.11-16.38.25:305][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.11-16.38.25:305][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.11-16.38.25:578][  0]LogDerivedDataCache: Saved boot cache 0.27s 77MB C:/Users/Андрей/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.11-16.38.25:578][  0]LogInit: Texture streaming: Enabled
+[2022.12.11-16.38.25:589][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.12.11-16.38.25:594][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.11-16.38.25:594][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.11-16.38.25:606][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.11-16.38.25:815][  0]LogInit: Transaction tracking system initialized
+[2022.12.11-16.38.26:112][  0]BlueprintLog: New page: Editor Load
+[2022.12.11-16.38.27:079][  0]LocalizationService: Localization service is disabled
+[2022.12.11-16.38.27:379][  0]TimingProfiler: Initialize
+[2022.12.11-16.38.27:379][  0]TimingProfiler: OnSessionChanged
+[2022.12.11-16.38.27:379][  0]LoadingProfiler: Initialize
+[2022.12.11-16.38.27:379][  0]LoadingProfiler: OnSessionChanged
+[2022.12.11-16.38.27:379][  0]NetworkingProfiler: Initialize
+[2022.12.11-16.38.27:379][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.11-16.38.27:379][  0]MemoryProfiler: Initialize
+[2022.12.11-16.38.27:379][  0]MemoryProfiler: OnSessionChanged
+[2022.12.11-16.38.28:905][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.11-16.38.28:906][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.11-16.38.29:528][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Content/' took 0.00s
+[2022.12.11-16.38.31:419][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.11-16.38.31:425][  0]SourceControl: Source control is disabled
+[2022.12.11-16.38.31:425][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.145
+[2022.12.11-16.38.31:425][  0]Cmd: MAP LOAD FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.11-16.38.31:425][  0]LightingResults: New page: Lighting Build
+[2022.12.11-16.38.31:426][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.38.31:426][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.38.31:426][  0]MapCheck: New page: Map Check
+[2022.12.11-16.38.31:426][  0]LightingResults: New page: Lighting Build
+[2022.12.11-16.38.31:551][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.11-16.38.31:796][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainScene'.
+[2022.12.11-16.38.31:798][  0]LogAIModule: Creating AISystem for world MainScene
+[2022.12.11-16.38.31:806][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.11-16.38.31:841][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.11-16.38.31:842][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.11-16.38.31:842][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2022.12.11-16.38.31:842][  0]LogFileHelpers: Loading map 'MainScene' took 0.417
+[2022.12.11-16.38.31:844][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.564
+[2022.12.11-16.38.32:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-16.38.32:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-16.38.32:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-16.38.32:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-16.38.32:143][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3601 classes and 859 folders.
+[2022.12.11-16.38.32:202][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.11-16.38.32:249][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.11-16.38.32:249][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-16.38.32:249][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.12.11-16.38.32:262][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.11-16.38.32:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.11-16.38.32:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.12.11-16.38.32:274][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.11-16.38.32:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.11-16.38.32:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.12.11-16.38.32:286][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-16.38.32:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-16.38.32:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.12.11-16.38.32:299][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.11-16.38.32:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.11-16.38.32:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.12.11-16.38.32:311][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.11-16.38.32:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.11-16.38.32:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.11-16.38.32:318][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.11-16.38.32:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.11-16.38.32:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.11-16.38.32:339][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.11-16.38.32:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.11-16.38.32:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.12.11-16.38.32:356][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.11-16.38.32:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.11-16.38.32:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.11-16.38.32:384][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.11-16.38.32:385][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:385][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.11-16.38.32:385][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.12.11-16.38.32:392][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.11-16.38.32:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.11-16.38.32:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.12.11-16.38.32:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.11-16.38.32:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.11-16.38.32:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.12.11-16.38.32:407][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-16.38.32:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-16.38.32:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.11-16.38.32:411][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.11-16.38.32:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.11-16.38.32:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.11-16.38.32:419][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.11-16.38.32:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.11-16.38.32:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.12.11-16.38.32:433][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.11-16.38.32:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-16.38.32:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.12.11-16.38.32:437][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.11-16.38.32:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.11-16.38.32:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.12.11-16.38.32:452][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.11-16.38.32:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.11-16.38.32:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.12.11-16.38.32:455][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-16.38.32:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-16.38.32:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.12.11-16.38.32:459][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-16.38.32:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-16.38.32:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.12.11-16.38.32:463][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.11-16.38.32:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.11-16.38.32:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.12.11-16.38.32:495][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.11-16.38.32:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.11-16.38.32:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.12.11-16.38.32:499][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.11-16.38.32:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.11-16.38.32:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.12.11-16.38.32:503][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.11-16.38.32:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.11-16.38.32:503][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.12.11-16.38.32:508][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.11-16.38.32:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.11-16.38.32:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.12.11-16.38.32:512][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.11-16.38.32:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.11-16.38.32:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.11-16.38.32:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.12.11-16.38.33:115][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.11-16.38.33:116][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.11-16.38.33:234][  0]LogSlate: Took 0.022309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.11-16.38.33:264][  0]LogSlate: Took 0.028743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.11-16.38.33:295][  0]LogSlate: Took 0.027300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.11-16.38.33:377][  0]LogRenderer: Reallocating scene render targets to support 936x560 Format 10 NumSamples 1 (Frame:1).
+[2022.12.11-16.38.34:593][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.11-16.38.34:593][  0]LogLoad: (Engine Initialization) Total time: 29.31 seconds
+[2022.12.11-16.38.34:593][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.11-16.38.34:593][  0]LogInit: First time updating LLM stats...
+[2022.12.11-16.38.34:626][  0]LogAssetRegistry: Asset discovery search completed in 25.9192 seconds
+[2022.12.11-16.38.34:627][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.11-16.38.34:694][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.11-16.38.34:752][  2]LogSlate: Took 0.023232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.11-16.38.35:616][104]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.11-16.39.25:000][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.12.11-16.39.25:784][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/AIcontroller/AIC_Unit.AIC_Unit
+[2022.12.11-16.39.26:079][547]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.12.11-16.39.26:914][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Button.BP_Button
+[2022.12.11-16.39.27:247][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.11-16.39.27:600][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Unit_Goblin.BP_Unit_Goblin
+[2022.12.11-16.39.27:898][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Finish_Japan.BP_Finish_Japan
+[2022.12.11-16.39.29:781][696]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.39.29:781][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.39.29:834][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Finish_Japan.BP_Finish_Japan
+[2022.12.11-16.39.30:205][696]LogSlate: Took 0.030262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.11-16.39.31:576][802]LogSlate: Took 0.004109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.11-16.39.35:596][119]LogSlate: Window 'BP_Finish_Japan' being destroyed
+[2022.12.11-16.39.36:405][207]LogSlate: Window 'AIC_Unit' being destroyed
+[2022.12.11-16.40.04:172][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.11-16.40.04:399][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.11-16.40.04:426][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.11-16.40.04:465][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.11-16.40.04:495][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.11-16.40.57:911][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.11-16.40.57:949][321]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.57:949][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.40.58:011][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-16.40.58:011][321]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.58:011][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.40.58:075][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-16.40.58:075][321]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.58:075][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.40.58:130][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-16.40.58:131][321]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.58:131][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.40.58:193][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-16.40.58:193][321]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.58:193][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-16.40.58:268][321]LogSlate: Window 'TestButton - Unreal Editor' being destroyed
+[2022.12.11-16.40.58:396][322]Cmd: QUIT_EDITOR
+[2022.12.11-16.40.58:396][322]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.11-16.40.58:404][322]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.11-16.40.58:410][322]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.11-16.40.58:410][322]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.11-16.40.58:410][322]LogAudio: Display: Audio Device unregistered from world 'MainScene'.
+[2022.12.11-16.40.58:410][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-16.40.58:412][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.11-16.40.58:428][322]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.11-16.40.58:429][322]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.11-16.40.58:438][322]LogExit: Preparing to exit.
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425B00] Windows
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425A00] Default__DeviceProfile
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FE700] WindowsNoEditor
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425C00] WindowsServer
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FE800] WindowsClient
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424E00] IOS
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FF700] iPadAir
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427000] iPadAir2
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B2B00] IPadPro
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B2C00] iPadAir3
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425200] iPadAir4
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B2800] iPadMini2
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427100] iPadMini3
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B1800] iPadMini4
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426A00] iPadMini5
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F6400] iPhone6
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F6500] iPodTouch6
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FC200] iPhone7
+[2022.12.11-16.40.59:226][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FC500] iPodTouch7
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F7C00] iPhone5S
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FFF00] iPhone6Plus
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F5600] iPhone6S
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FDE00] iPhone6SPlus
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4700] iPhone7Plus
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FD100] iPhoneSE
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F7400] iPhone8
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FE200] iPhone8Plus
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4400] iPhoneX
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FEC00] iPhoneXS
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F7000] iPhoneXSMax
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FD500] iPhoneXR
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4D00] iPhone11
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FCC00] iPhone11Pro
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F7200] iPhone11ProMax
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FFA00] iPhoneSE2
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F5F00] iPhone12Mini
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FC100] iPhone12
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F6C00] iPhone12Pro
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FE400] iPhone12ProMax
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424A00] iPadPro105
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F5900] iPadPro129
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426D00] iPadPro97
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4E00] iPadPro2_129
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425900] iPad5
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F6E00] iPad6
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427300] iPad7
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FD800] iPad8
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424700] iPadPro11
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FCB00] iPadPro2_11
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427200] iPadPro3_129
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FC300] iPadPro4_129
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424400] AppleTV
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FEB00] AppleTV4K
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426500] TVOS
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FFB00] Mac
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424B00] MacClient
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FF000] MacNoEditor
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425D00] MacServer
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FDB00] Linux
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427400] LinuxAArch64
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FF100] LinuxNoEditor
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424900] LinuxAArch64NoEditor
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FC900] LinuxClient
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425000] LinuxAArch64Client
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FDA00] LinuxServer
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425400] LinuxAArch64Server
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FED00] Android
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425500] Android_Low
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FC800] Android_Mid
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426100] Android_High
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FCA00] Android_Default
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95425F00] Android_Adreno4xx
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FF400] Android_Adreno5xx_Low
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426400] Android_Adreno5xx
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FDC00] Android_Adreno6xx
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427B00] Android_Adreno6xx_Vulkan
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FCF00] Android_Mali_T6xx
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95427500] Android_Mali_T7xx
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FE100] Android_Mali_T8xx
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426B00] Android_Mali_G71
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FFC00] Android_Mali_G72
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424300] Android_Mali_G72_Vulkan
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FEE00] Android_Mali_G76
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95424D00] Android_Mali_G76_Vulkan
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FE600] Android_Mali_G77
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426E00] Android_Mali_G77_Vulkan
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FDD00] Android_Vulkan_SM5
+[2022.12.11-16.40.59:227][322]LogDeviceProfile: Device profile begin destroy: [0000013D95426300] Android_PowerVR_G6xxx
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953FD400] Android_PowerVR_GT7xxx
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B1E00] Android_PowerVR_GE8xxx
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4F00] Android_PowerVR_GM9xxx
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B0800] Android_PowerVR_GM9xxx_Vulkan
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4800] Android_TegraK1
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B0100] Android_Unknown_Vulkan
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F5300] Lumin
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953B3200] Lumin_Desktop
+[2022.12.11-16.40.59:228][322]LogDeviceProfile: Device profile begin destroy: [0000013D953F4300] HoloLens
+[2022.12.11-16.40.59:239][322]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.59:241][322]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.59:243][322]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.59:246][322]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.59:295][322]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.11-16.40.59:301][322]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-16.40.59:301][322]LogExit: Editor shut down
+[2022.12.11-16.40.59:302][322]LogExit: Transaction tracking system shut down
+[2022.12.11-16.40.59:803][322]LogExit: Object subsystem successfully closed.
+[2022.12.11-16.40.59:817][322]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module BlueprintGraph (818)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.12.11-16.40.59:827][322]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (788)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (784)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (782)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (780)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (778)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (776)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module WebMMedia (774)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (772)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2022.12.11-16.40.59:828][322]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.12.11-16.40.59:829][322]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.12.11-16.40.59:830][322]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.12.11-16.40.59:830][322]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.12.11-16.40.59:830][322]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.12.11-16.40.59:830][322]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.12.11-16.41.01:374][322]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.12.11-16.41.01:374][322]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.12.11-16.41.01:374][322]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.12.11-16.41.01:374][322]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.12.11-16.41.01:374][322]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.12.11-16.41.01:374][322]MemoryProfiler: Shutdown
+[2022.12.11-16.41.01:374][322]NetworkingProfiler: Shutdown
+[2022.12.11-16.41.01:375][322]LoadingProfiler: Shutdown
+[2022.12.11-16.41.01:375][322]TimingProfiler: Shutdown
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.12.11-16.41.01:375][322]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.12.11-16.41.01:407][322]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.12.11-16.41.01:415][322]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.12.11-16.41.01:416][322]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2022.12.11-16.41.01:552][322]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module SynthesisEditor (548)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module Synthesis (546)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ScreenshotTools (544)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (538)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GooglePAD (536)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module EditableMesh (534)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module TemplateSequence (510)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MediaCompositing (508)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ImgMedia (506)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (504)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (502)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (500)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (498)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (496)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (494)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MotoSynth (492)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MeshConversion (490)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module DynamicMesh (488)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (486)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometricObjects (484)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (482)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (481)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (478)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (476)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (474)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (472)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (470)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ChaosNiagara (468)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module FractureEditor (466)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (465)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (462)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module BackChannel (460)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (458)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AutomationUtils (456)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AlembicImporter (454)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module AlembicLibrary (453)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCache (452)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (451)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (446)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (444)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (442)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (440)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module PluginBrowser (438)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (436)
+[2022.12.11-16.41.01:553][322]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (434)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module CurveEditorTools (432)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (430)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module CryptoKeys (428)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (426)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (424)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module UObjectPlugin (422)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (420)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PluginUtils (416)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (414)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (412)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module SourceControl (409)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (406)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (404)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2022.12.11-16.41.01:554][322]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2022.12.11-16.41.01:655][322]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2022.12.11-16.41.01:756][322]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2022.12.11-16.41.01:756][322]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2022.12.11-16.41.01:756][322]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module DataValidation (324)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (322)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module LevelEditor (321)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (320)
+[2022.12.11-16.41.01:757][322]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2022.12.11-16.41.01:758][322]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2022.12.11-16.41.01:758][322]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module ToolMenus (311)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module ContentBrowser (309)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.12.11-16.41.01:759][322]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.12.11-16.41.01:760][322]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.12.11-16.41.01:760][322]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.12.11-16.41.01:760][322]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.12.11-16.41.01:760][322]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.12.11-16.41.01:760][322]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.12.11-16.41.01:760][322]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.12.11-16.41.01:763][322]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.12.11-16.41.01:764][322]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.12.11-16.41.01:765][322]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.12.11-16.41.01:765][322]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.12.11-16.41.01:765][322]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.12.11-16.41.01:766][322]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.12.11-16.41.01:767][322]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.12.11-16.41.01:768][322]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.12.11-16.41.01:769][322]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.12.11-16.41.01:772][322]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.12.11-16.41.01:773][322]LogHMD: Freeing OpenVRDLLHandle.
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.12.11-16.41.01:773][322]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.12.11-16.41.01:774][322]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.12.11-16.41.01:774][322]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.12.11-16.41.01:784][322]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.12.11-16.41.01:785][322]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.12.11-16.41.01:785][322]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7684E749-4AD8-E022-C495-64B08E20706D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b91356b7483db30a33168e956002159a%7C3a7ba558885e472aaea76b4dd216a960%7C547389ed-be12-402b-8f5e-518d11282aa2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.12.11-16.41.01:785][322]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.12.11-16.41.01:816][322]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.12.11-16.41.01:817][322]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.12.11-16.41.01:819][322]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.12.11-16.41.01:820][322]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.12.11-16.41.01:821][322]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.12.11-16.41.01:822][322]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.12.11-16.41.01:822][322]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.12.11-16.41.01:823][322]LogD3D11RHI: Shutdown
+[2022.12.11-16.41.01:823][322]LogD3D11RHI: CleanupD3DDevice
+[2022.12.11-16.41.01:833][322]LogExit: Exiting.
+[2022.12.11-16.41.01:845][322]Log file closed, 12/12/22 01:41:01

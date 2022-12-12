@@ -1,0 +1,1787 @@
+﻿Log file open, 12/12/22 16:23:43
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TestButton
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282720
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Андрей/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7640X CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE4_Sample/UE4.23/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.12-07.23.43:526][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.12-07.23.43:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:527][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:533][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:533][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.12-07.23.43:533][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.12-07.23.43:533][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:533][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.12-07.23.43:533][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.12-07.23.43:534][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:534][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.12-07.23.43:535][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.12-07.23.43:535][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.12-07.23.43:535][  0]LogHAL: Display: Platform has ~ 16 GB [17128886272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.12-07.23.43:535][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.12-07.23.43:535][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.12-07.23.43:535][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Scalability.ini]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.12-07.23.43:536][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Engine.ini]
+[2022.12.12-07.23.43:536][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4_Project/TestButton/TestButton/Saved/Config/Windows/Editor.ini]
+[2022.12.12-07.23.43:536][  0]LogInit: Computer: DESKTOP-9M6H3KA
+[2022.12.12-07.23.43:536][  0]LogInit: User: Andrey
+[2022.12.12-07.23.43:536][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.12-07.23.43:536][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.12-07.23.43:536][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.12.12-07.23.43:536][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.12-07.23.43:536][  0]LogMemory: Process Physical Memory: 136.88 MB used, 136.89 MB peak
+[2022.12.12-07.23.43:536][  0]LogMemory: Process Virtual Memory: 115.67 MB used, 115.67 MB peak
+[2022.12.12-07.23.43:536][  0]LogMemory: Physical Memory: 11035.79 MB used,  5299.59 MB free, 16335.38 MB total
+[2022.12.12-07.23.43:536][  0]LogMemory: Virtual Memory: 134212208.00 MB used,  5516.02 MB free, 134217728.00 MB total
+[2022.12.12-07.23.43:543][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.12-07.23.43:603][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.12-07.23.43:604][  0]LogInit: Using OS detected language (ru-RU).
+[2022.12.12-07.23.43:604][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.12.12-07.23.43:605][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.12.12-07.23.43:606][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.12.12-07.23.43:606][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.12-07.23.43:615][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-07.23.43:629][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.12-07.23.43:629][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.12-07.23.43:856][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.12-07.23.43:856][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.12-07.23.43:856][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.12-07.23.43:856][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.12-07.23.43:969][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.12.12-07.23.43:969][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.12-07.23.43:972][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.12-07.23.43:972][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.12-07.23.43:972][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.12-07.23.43:978][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.12-07.23.43:979][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.12-07.23.43:979][  0]LogWindows: EnumDisplayDevices:
+[2022.12.12-07.23.43:979][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.12.12-07.23.43:979][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.12-07.23.43:979][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.12-07.23.43:980][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.12.12-07.23.43:980][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.12-07.23.43:980][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.12.12-07.23.43:980][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.12-07.23.43:980][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.12.12-07.23.43:980][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.12.12-07.23.44:044][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.12-07.23.44:044][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.12-07.23.44:044][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.12-07.23.44:073][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.12-07.23.44:075][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.12-07.23.44:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.12-07.23.44:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.12-07.23.44:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.12-07.23.44:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.12-07.23.44:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.12-07.23.44:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.12-07.23.44:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.12-07.23.44:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.12-07.23.44:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.12-07.23.44:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.12-07.23.44:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.12-07.23.44:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.12-07.23.44:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.12-07.23.44:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.12-07.23.44:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.12-07.23.44:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.12-07.23.44:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.12-07.23.44:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.12-07.23.44:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.12-07.23.44:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.12-07.23.44:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.12-07.23.44:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.12-07.23.44:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.12-07.23.44:705][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.12-07.23.44:715][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.12-07.23.44:785][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.12-07.23.44:785][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../UE4_Project/TestButton/TestButton/Intermediate/Shaders/WorkingDirectory/20160/).
+[2022.12.12-07.23.44:785][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Андрей/AppData/Local/Temp/UnrealShaderWorkingDir/4B656455450E5D9E4AE749B01BA6A9D5/'.
+[2022.12.12-07.23.44:786][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.12-07.23.44:786][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.12-07.23.45:491][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.12-07.23.45:551][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Андрей/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.12-07.23.45:551][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Андрей/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.12.12-07.23.45:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE4_Project/TestButton/TestButton/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.12-07.23.45:551][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.12-07.23.45:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE4_Project/TestButton/TestButton/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.12-07.23.45:551][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.12-07.23.45:562][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.12-07.23.45:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.12-07.23.45:563][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.12-07.23.45:573][  0]LogDerivedDataCache: Speed tests for C:/Users/Андрей/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.12-07.23.45:573][  0]LogDerivedDataCache: Display: Performance to C:/Users/Андрей/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=552.69MBs, RandomWriteSpeed=122.49MBs. Assigned SpeedClass 'Local'
+[2022.12.12-07.23.45:575][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Андрей/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.12-07.23.45:575][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.12-07.23.45:575][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.12-07.23.45:617][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.12-07.23.45:617][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.12-07.23.45:655][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2022.12.12-07.23.45:890][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.12-07.23.45:890][  0]LogInit: Active device profile: [0000024CA1771B00][0000024CA09EFA00 49] Windows
+[2022.12.12-07.23.45:890][  0]LogInit: Profiles: [0000024CA1771B00][0000024CA09EFA00 49] Windows, [0000024CA1742700][0000024CA09F3B40 49] WindowsNoEditor, [0000024CA1771C00][0000024CA09FBCC0 49] WindowsServer, [0000024CA1742800][0000024CA09FE180 49] WindowsClient, [0000024CA1770E00][0000024CA0A02300 49] IOS, [0000024CA1743700][0000024CA0A06480 49] iPadAir, [0000024CA1773000][0000024CA0A22600 49] iPadAir2, [0000024CA1632B00][0000024CA0A328C0 49] IPadPro, [0000024CA1632C00][0000024CA0A26900 49] iPadAir3, [0000024CA1771200][0000024CA0A48A80 49] iPadAir4, [0000024CA1632800][0000024CA0A4CC00 49] iPadMini2, [0000024CA1773100][0000024CA1B2ED80 49] iPadMini3, [0000024CA1631800][0000024CA1B32F00 49] iPadMini4, [0000024CA1772A00][0000024CA1B37080 49] iPadMini5, [0000024CA1686400][0000024CA1B3F340 49] iPhone6, [0000024CA1686500][0000024CA1B3B380 49] iPodTouch6, [0000024CA1740200][0000024CA1B47640 49] iPhone7, [0000024CA1740500][0000024CA1B43680 49] iPodTouch7, [0000024CA1687C00][0000024CA09F77C0 49] iPhone5S, [0000024CA1743F00][0000024CA1B4B900 49] iPhone6Plus, [0000024CA1685600][0000024CA1B4FA40 49] iPhone6S, [0000024CA1741E00][0000024CA1B53B80 49] iPhone6SPlus, [0000024CA1684700][0000024CA1B5BD00 49] iPhone7Plus, [0000024CA1741100][0000024CA1B5E1C0 49] iPhoneSE, [0000024CA1687400][0000024CA1B62340 49] iPhone8, [0000024CA1742200][0000024CA1B664C0 49] iPhone8Plus, [0000024CA1684400][0000024CA1B6A640 49] iPhoneX, [0000024CA1742C00][0000024CA1B6E7C0 49] iPhoneXS, [0000024CA1687000][0000024CA1B72940 49] iPhoneXSMax, [0000024CA1741500][0000024CA1B76AC0 49] iPhoneXR, [0000024CA1684D00][0000024CA1B7AC40 49] iPhone11, [0000024CA1740C00][0000024CA1B7EDC0 49] iPhone11Pro, [0000024CA1687200][0000024CA1B82F40 49] iPhone11ProMax, [0000024CA1743A00][0000024CA1B870C0 49] iPhoneSE2, [0000024CA1685F00][0000024CA1B8B240 49] iPhone12Mini, [0000024CA1740100][0000024CA1B8F3C0 49] iPhone12, [0000024CA1686C00][0000024CA1B93540 49] iPhone12Pro, [0000024CA1742400][0000024CA1B976C0 49] iPhone12ProMax, [0000024CA1770A00][0000024CA1B9B840 49] iPadPro105, [0000024CA1685900][0000024CA1B57980 49] iPadPro129, [0000024CA1772D00][0000024CA1B9FAC0 49] iPadPro97, [0000024CA1684E00][0000024CA1BA3C00 49] iPadPro2_129, [0000024CA1771900][0000024CA1BAA0C0 49] iPad5, [0000024CA1686E00][0000024CA1BAE240 49] iPad6, [0000024CA1773300][0000024CA1BB23C0 49] iPad7, [0000024CA1741800][0000024CA1BB6540 49] iPad8, [0000024CA1770700][0000024CA1BBA6C0 49] iPadPro11, [0000024CA1740B00][0000024CA1BBE840 49] iPadPro2_11, [0000024CA1773200][0000024CA1BC29C0 49] iPadPro3_129, [0000024CA1740300][0000024CA1BC6B40 49] iPadPro4_129, [0000024CA1770400][0000024CA1BCACC0 49] AppleTV, [0000024CA1742B00][0000024CA1BCEE40 49] AppleTV4K, [0000024CA1772500][0000024CA1BD2FC0 49] TVOS, [0000024CA1743B00][0000024CA1BD7140 49] Mac, [0000024CA1770B00][0000024CA1BDB2C0 49] MacClient, [0000024CA1743000][0000024CA1BDF440 49] MacNoEditor, [0000024CA1771D00][0000024CA1BE35C0 49] MacServer, [0000024CA1741B00][0000024CA1BE7740 49] Linux, [0000024CA1773400][0000024CA1BEB8C0 49] LinuxAArch64, [0000024CA1743100][0000024CA1BA7A00 49] LinuxNoEditor, [0000024CA1770900][0000024CA1BEFB40 49] LinuxAArch64NoEditor, [0000024CA1740900][0000024CA1BF3C80 49] LinuxClient, [0000024CA1771000][0000024CA1BF6100 49] LinuxAArch64Client, [0000024CA1741A00][0000024CA1BFE280 49] LinuxServer, [0000024CA1771400][0000024CA1C02400 49] LinuxAArch64Server, [0000024CA1742D00][0000024CA1C06580 49] Android, [0000024CA1771500][0000024CA1C0A700 49] Android_Low, [0000024CA1740800][0000024CA1C0E880 49] Android_Mid, [0000024CA1772100][0000024CA1C12A00 49] Android_High, [0000024CA1740A00][0000024CA1C16B80 49] Android_Default, [0000024CA1771F00][0000024CA1C1AD00 49] Android_Adreno4xx, [0000024CA1743400][0000024CA1C1EE80 49] Android_Adreno5xx_Low, [0000024CA1772400][0000024CA1C23000 49] Android_Adreno5xx, [0000024CA1741C00][0000024CA1C27180 49] Android_Adreno6xx, [0000024CA1773B00][0000024CA1C2B300 49] Android_Adreno6xx_Vulkan, [0000024CA1740F00][0000024CA1C2F480 49] Android_Mali_T6xx, [0000024CA1773500][0000024CA1C33600 49] Android_Mali_T7xx, [0000024CA1742100][0000024CA1C37780 49] Android_Mali_T8xx, [0000024CA1772B00][0000024CA1C3B900 49] Android_Mali_G71, [0000024CA1743C00][0000024CA1BFBA40 49] Android_Mali_G72, [0000024CA1770300][0000024CA1C3FB80 49] Android_Mali_G72_Vulkan, [0000024CA1742E00][0000024CA1C43CC0 49] Android_Mali_G76, [0000024CA1770D00][0000024CA1C46140 49] Android_Mali_G76_Vulkan, [0000024CA1742600][0000024CA1C4E2C0 49] Android_Mali_G77, [0000024CA1772E00][0000024CA1C52440 49] Android_Mali_G77_Vulkan, [0000024CA1741D00][0000024CA1C565C0 49] Android_Vulkan_SM5, [0000024CA1772300][0000024CA1C5A740 49] Android_PowerVR_G6xxx, [0000024CA1741400][0000024CA1C5E8C0 49] Android_PowerVR_GT7xxx, [0000024CA1631E00][0000024CA1C62A40 49] Android_PowerVR_GE8xxx, [0000024CA1684F00][0000024CA1C66BC0 49] Android_PowerVR_GM9xxx, [0000024CA1630800][0000024CA1C6AD40 49] Android_PowerVR_GM9xxx_Vulkan, [0000024CA1684800][0000024CA1C6EEC0 49] Android_TegraK1, [0000024CA1630100][0000024CA1C73040 49] Android_Unknown_Vulkan, [0000024CA1685300][0000024CA1C771C0 49] Lumin, [0000024CA1633200][0000024CA1C7B340 49] Lumin_Desktop, [0000024CA1684300][0000024CA1C7F4C0 49] HoloLens, 
+[2022.12.12-07.23.46:014][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Map/Showcase_EnemyGoblin.umap is too old
+[2022.12.12-07.23.46:014][  0]LogAssetRegistry: Error: Package ../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Map/Showcase_EnemyGoblin_BuiltData.uasset is too old
+[2022.12.12-07.23.46:014][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.12-07.23.46:014][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.12-07.23.46:014][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.12-07.23.46:014][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.12-07.23.46:014][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.12-07.23.46:031][  0]LogNetVersion: TestButton 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 305645686)
+[2022.12.12-07.23.46:614][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.12-07.23.46:738][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.123436 seconds
+[2022.12.12-07.23.46:743][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.12.12-07.23.46:743][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.12.12-07.23.46:743][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.12-07.23.47:161][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.12-07.23.47:166][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.12-07.23.47:307][  0]SourceControl: Source control is disabled
+[2022.12.12-07.23.47:307][  0]SourceControl: Source control is disabled
+[2022.12.12-07.23.47:311][  0]SourceControl: Source control is disabled
+[2022.12.12-07.23.47:316][  0]SourceControl: Source control is disabled
+[2022.12.12-07.23.47:327][  0]SourceControl: Source control is disabled
+[2022.12.12-07.23.47:335][  0]LogUProjectInfo: Found projects:
+[2022.12.12-07.23.47:621][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.12-07.23.47:646][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.12-07.23.47:646][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.12-07.23.47:702][  0]LogCollectionManager: Loaded 0 collections in 0.001356 seconds
+[2022.12.12-07.23.47:726][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Saved/Collections/' took 0.00s
+[2022.12.12-07.23.47:726][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Content/Developers/Andrey/Collections/' took 0.00s
+[2022.12.12-07.23.47:726][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Content/Collections/' took 0.00s
+[2022.12.12-07.23.47:726][  0]LogOcInput: OculusInput pre-init called
+[2022.12.12-07.23.47:737][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.12-07.23.47:737][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.12-07.23.47:783][  0]LogEngine: Initializing Engine...
+[2022.12.12-07.23.47:784][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.12-07.23.47:784][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.12-07.23.47:785][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.12-07.23.47:894][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.12-07.23.47:903][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.12-07.23.47:912][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.12-07.23.47:917][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.12-07.23.47:917][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.23.47:917][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.23.47:917][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.23.47:917][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.23.47:934][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.23.47:934][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.23.47:989][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.23.47:995][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.23.47:998][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.23.47:998][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.23.47:999][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.23.47:999][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.23.47:999][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.23.48:002][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.23.48:002][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.23.48:002][  0]LogInit: FAudioDevice initialized.
+[2022.12.12-07.23.48:002][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.12-07.23.48:002][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.12-07.23.48:186][  0]LogDerivedDataCache: Saved boot cache 0.18s 77MB C:/Users/Андрей/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.12-07.23.48:188][  0]LogInit: Texture streaming: Enabled
+[2022.12.12-07.23.48:206][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.12.12-07.23.48:214][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.12-07.23.48:214][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.12-07.23.48:223][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.12-07.23.48:537][  0]LogInit: Transaction tracking system initialized
+[2022.12.12-07.23.48:567][  0]BlueprintLog: New page: Editor Load
+[2022.12.12-07.23.48:660][  0]LocalizationService: Localization service is disabled
+[2022.12.12-07.23.48:693][  0]TimingProfiler: Initialize
+[2022.12.12-07.23.48:693][  0]TimingProfiler: OnSessionChanged
+[2022.12.12-07.23.48:693][  0]LoadingProfiler: Initialize
+[2022.12.12-07.23.48:693][  0]LoadingProfiler: OnSessionChanged
+[2022.12.12-07.23.48:693][  0]NetworkingProfiler: Initialize
+[2022.12.12-07.23.48:693][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.12-07.23.48:693][  0]MemoryProfiler: Initialize
+[2022.12.12-07.23.48:693][  0]MemoryProfiler: OnSessionChanged
+[2022.12.12-07.23.49:388][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.12-07.23.49:388][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.12-07.23.49:576][  0]LogFileCache: Scanning file cache for directory 'F:/UE4_Project/TestButton/TestButton/Content/' took 0.02s
+[2022.12.12-07.23.49:800][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.12-07.23.49:807][  0]SourceControl: Source control is disabled
+[2022.12.12-07.23.49:807][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.166
+[2022.12.12-07.23.49:807][  0]Cmd: MAP LOAD FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.12-07.23.49:807][  0]LightingResults: New page: Lighting Build
+[2022.12.12-07.23.49:808][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.23.49:808][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.23.49:808][  0]MapCheck: New page: Map Check
+[2022.12.12-07.23.49:808][  0]LightingResults: New page: Lighting Build
+[2022.12.12-07.23.49:855][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.12-07.23.50:447][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainScene'.
+[2022.12.12-07.23.50:448][  0]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.23.50:472][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.12-07.23.50:505][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.12-07.23.50:505][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.12-07.23.50:506][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,178ms to complete.
+[2022.12.12-07.23.50:506][  0]LogFileHelpers: Loading map 'MainScene' took 0.699
+[2022.12.12-07.23.50:507][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.867
+[2022.12.12-07.23.50:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.23.50:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.23.50:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.23.50:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.23.50:811][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3601 classes and 859 folders.
+[2022.12.12-07.23.50:813][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.12-07.23.50:815][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.12-07.23.50:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-07.23.50:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.12.12-07.23.50:816][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.12-07.23.50:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.12-07.23.50:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.12.12-07.23.50:816][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.12-07.23.50:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.12-07.23.50:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.12.12-07.23.50:817][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-07.23.50:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-07.23.50:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.12.12-07.23.50:817][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.12-07.23.50:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.12-07.23.50:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.12.12-07.23.50:818][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.12-07.23.50:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.12-07.23.50:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.12.12-07.23.50:819][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.12-07.23.50:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.12-07.23.50:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.12.12-07.23.50:819][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.12-07.23.50:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.12-07.23.50:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.12.12-07.23.50:820][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.12-07.23.50:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.12-07.23.50:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.12-07.23.50:820][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.12-07.23.50:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.12-07.23.50:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.12-07.23.50:821][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.12-07.23.50:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.12-07.23.50:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.12-07.23.50:821][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.12-07.23.50:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.12-07.23.50:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.12-07.23.50:822][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-07.23.50:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-07.23.50:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.12-07.23.50:823][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.12-07.23.50:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.12-07.23.50:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.12-07.23.50:823][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.12-07.23.50:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.12-07.23.50:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.12.12-07.23.50:824][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.12-07.23.50:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-07.23.50:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.12.12-07.23.50:825][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.12-07.23.50:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.12-07.23.50:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.12.12-07.23.50:825][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.12-07.23.50:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.12-07.23.50:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.12-07.23.50:826][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-07.23.50:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-07.23.50:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.12.12-07.23.50:827][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-07.23.50:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-07.23.50:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.12.12-07.23.50:827][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.12-07.23.50:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.12-07.23.50:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.12.12-07.23.50:828][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.12-07.23.50:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.12-07.23.50:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.12.12-07.23.50:828][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.12-07.23.50:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.12-07.23.50:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.12-07.23.50:829][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.12-07.23.50:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.12-07.23.50:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.12-07.23.50:830][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.12-07.23.50:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.12-07.23.50:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.12-07.23.50:831][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.12-07.23.50:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.12-07.23.50:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.12-07.23.50:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.12.12-07.23.50:870][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.12-07.23.50:871][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.12-07.23.50:981][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.12-07.23.50:982][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.12-07.23.50:986][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.12-07.23.51:063][  0]LogRenderer: Reallocating scene render targets to support 936x536 Format 10 NumSamples 1 (Frame:1).
+[2022.12.12-07.23.51:543][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.12-07.23.51:543][  0]LogLoad: (Engine Initialization) Total time: 14.90 seconds
+[2022.12.12-07.23.51:543][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.12-07.23.51:543][  0]LogInit: First time updating LLM stats...
+[2022.12.12-07.23.51:579][  0]LogAssetRegistry: Asset discovery search completed in 5.9257 seconds
+[2022.12.12-07.23.51:580][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.12-07.23.51:623][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.12-07.23.52:233][  2]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.12-07.23.52:902][  4]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.12-07.30.49:534][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.12-07.30.53:007][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.30.53:013][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.12-07.30.53:053][665]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene335A28614127FF2DC81A8FBD0AF1E286.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.30.53:079][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.30.53:168][665]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData98933EE246E929CEFDA22FA57AA298DB.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.30.53:182][665]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.30.53:182][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.30.53:182][665]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.38.05:229][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.12-07.38.16:508][357]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.12-07.38.16:529][357]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.12-07.38.22:088][ 19]LogContentBrowser: Attempting asset rename: NewFolder -> SoundEffects
+[2022.12.12-07.38.22:089][ 19]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.12-07.38.33:948][539]LogContentBrowser: Attempting asset rename: Effects -> Effects
+[2022.12.12-07.38.42:520][529]LogContentBrowser: Attempting asset rename: SoundEffects -> SoundEffects
+[2022.12.12-07.38.47:156][ 76]LogContentBrowser: Attempting asset rename: Effects -> VisualEffects
+[2022.12.12-07.38.48:400][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_BellRinging41173D0B4A49B7903149B580DBEA09E4.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_BellRinging.uasset'
+[2022.12.12-07.38.48:562][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_ToonCloudB5CE9044423ED712C1156E8110CB2EDA.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_ToonCloud.uasset'
+[2022.12.12-07.38.48:863][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_FireEffect6301FC2A48EEA80FE64247B8CB55ED59.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_FireEffect.uasset'
+[2022.12.12-07.38.48:865][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/Effects/NS_FireEffect" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/Effects/NS_FireEffect.uasset" SILENT=true
+[2022.12.12-07.38.48:866][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_FireEffect11AE41664781C90403DA59B64B0B1FC0.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/Effects/NS_FireEffect.uasset'
+[2022.12.12-07.38.49:109][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_FireImpact4D0CDE304836C93B9953B98BDBC997B6.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_FireImpact.uasset'
+[2022.12.12-07.38.49:110][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Spawn" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Spawn.uasset" SILENT=true
+[2022.12.12-07.38.49:657][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_SpawnA3B279DA4CED084A87D733BACCC140F8.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Spawn.uasset'
+[2022.12.12-07.38.49:659][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_ToonStar" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_ToonStar.uasset" SILENT=true
+[2022.12.12-07.38.49:811][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_ToonStarD37EF87F4DDADEBD0EB5A9827B089FD2.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_ToonStar.uasset'
+[2022.12.12-07.38.49:871][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.12.12-07.38.49:877][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.38.49:883][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.38.49:888][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.38.49:894][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.38.49:905][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.12-07.38.49:912][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.38.49:931][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_PrayerWheel" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset" SILENT=true
+[2022.12.12-07.38.49:940][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_PrayerWheel7422F1154CCBBE4CABF7788D1F390E45.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset'
+[2022.12.12-07.38.49:942][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Spawn_SmallHut" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Spawn_SmallHut.uasset" SILENT=true
+[2022.12.12-07.38.49:952][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Spawn_SmallHut135575A84613EC4B7C449F9F269D4402.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Spawn_SmallHut.uasset'
+[2022.12.12-07.38.49:954][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_FireBase" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_FireBase.uasset" SILENT=true
+[2022.12.12-07.38.49:963][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_FireBase0FCF57BA4121660625843D9A9DBAE24E.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_FireBase.uasset'
+[2022.12.12-07.38.49:966][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Spawn_Torii" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Spawn_Torii.uasset" SILENT=true
+[2022.12.12-07.38.49:975][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Spawn_Torii0BF688324A695D3DB68F3795D4FA6CD6.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Spawn_Torii.uasset'
+[2022.12.12-07.38.50:097][ 76]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Spawn.NS_Spawn
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_FireImpact.NS_FireImpact
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_BellRinging.NS_BellRinging
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_ToonCloud.NS_ToonCloud
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Spawn_SmallHut.BP_Spawn_SmallHut
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_FireEffect.NS_FireEffect
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_ToonStar.NS_ToonStar
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_FireBase.BP_Button_FireBase
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Spawn_Torii.BP_Spawn_Torii
+[2022.12.12-07.38.50:097][ 76]LogContentValidation: Display: Validating ObjectRedirector /Game/Project/Assets/Effects/NS_FireEffect.NS_FireEffect
+[2022.12.12-07.38.51:000][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.12-07.38.58:198][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.38.58:204][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.12-07.38.58:242][984]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene2AF5FAA14A948DD6E07CED884678758F.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.38.58:263][984]LogFileHelpers: Saving map 'MainScene' took 0.066
+[2022.12.12-07.38.58:279][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.12.12-07.38.58:369][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-07.38.58:382][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.12-07.38.58:387][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.38.58:391][984]AssetCheck: New page: Asset Save: MainScene
+[2022.12.12-07.38.58:392][984]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.39.03:900][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.12-07.39.04:632][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.39.04:637][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.39.04:675][699]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene63E2D078442E3E799E0252B185C55C6F.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.39.04:704][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.39.04:778][699]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData58E0CF174195F30EFB5FEDB14C52B047.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.39.04:795][699]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.39.04:795][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.39.04:795][699]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.39.05:212][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.39.05:261][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.12-07.39.05:261][743]LogPlayLevel: [PlayLevel] Compiling BP_Button_PrayerWheel before play...
+[2022.12.12-07.39.05:269][743]LogPlayLevel: [PlayLevel] Compiling BP_Spawn_SmallHut before play...
+[2022.12.12-07.39.05:277][743]LogPlayLevel: [PlayLevel] Compiling BP_Button_FireBase before play...
+[2022.12.12-07.39.05:279][743]LogPlayLevel: [PlayLevel] Compiling BP_Spawn_Torii before play...
+[2022.12.12-07.39.05:287][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.12.12-07.39.05:287][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 27 ms (4 blueprints)
+[2022.12.12-07.39.05:288][743]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:39:05)
+[2022.12.12-07.39.05:289][743]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.12-07.39.05:291][743]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.12-07.39.05:291][743]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.39.05:297][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005631s)
+[2022.12.12-07.39.05:298][743]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.39.05:298][743]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2022.12.12-07.39.05:298][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.006831s)
+[2022.12.12-07.39.05:305][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.12.12-07.39.05:305][743]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.39.05:305][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.39.05:305][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.39.05:306][743]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.39.05:306][743]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.39.05:312][743]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.39.05:312][743]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.39.05:363][743]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.39.05:363][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.39.05:364][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.39.05:364][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.39.05:364][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.39.05:364][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.39.05:364][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.39.05:366][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.39.05:366][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.39.05:366][743]LogInit: FAudioDevice initialized.
+[2022.12.12-07.39.05:366][743]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainScene'.
+[2022.12.12-07.39.05:415][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.39.05:415][743]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.39.05:418][743]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.39.05
+[2022.12.12-07.39.05:419][743]LogWorld: Bringing up level for play took: 0.002533
+[2022.12.12-07.39.05:421][743]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.12.12-07.39.05:444][743]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.12.12-07.39.05:447][743]PIE: Server logged in
+[2022.12.12-07.39.05:448][743]PIE: Play in editor total start time 0,227 seconds.
+[2022.12.12-07.39.05:515][745]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.12.12-07.39.08:263][979]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.39.08:283][979]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.39.08:316][979]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.39.08:317][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.39.08:326][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.39.08:328][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.39.08:335][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-07.39.08:335][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.39.08:336][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.39.08:353][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.12-07.39.08:375][980]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.12-07.40.06:602][469]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:\[] MiniBattle\Новая папка\A_Bell.wav)
+[2022.12.12-07.40.06:637][469]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:\[] MiniBattle\Новая папка\A_Death.wav)
+[2022.12.12-07.40.06:639][469]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:\[] MiniBattle\Новая папка\A_Finish.wav)
+[2022.12.12-07.46.54:861][140]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 Z:\[] MiniBattle\SoundEffects\A_Step.mp3)
+[2022.12.12-07.46.56:340][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.12-07.46.57:671][253]LogSlate: Window 'Save Content' being destroyed
+[2022.12.12-07.47.01:124][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.12.12-07.47.01:726][641]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-07.47.01:773][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.12-07.47.38:314][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.47.38:319][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-07.47.38:357][965]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainSceneED49BC7B446F9ACEC6671CA6BA9831CA.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.47.38:379][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.47.38:458][965]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData06CC8A454A6063271A6C5EAE55C61D2E.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.47.38:477][965]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.47.38:477][965]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.47.38:477][965]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.47.38:907][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.12-07.47.40:142][  5]LogSlate: Window 'Save Content' being destroyed
+[2022.12.12-07.47.40:167][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/SoundEffects/A_Bell" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Bell.uasset" SILENT=true
+[2022.12.12-07.47.40:177][  5]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/A_Bell907A3FF9487FBA63D9A455B7DD1AB605.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Bell.uasset'
+[2022.12.12-07.47.40:180][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/SoundEffects/A_Death" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Death.uasset" SILENT=true
+[2022.12.12-07.47.40:197][  5]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/A_Death4758FD33468E487D35C80D8DE3028BD5.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Death.uasset'
+[2022.12.12-07.47.40:201][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/SoundEffects/A_Finish" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Finish.uasset" SILENT=true
+[2022.12.12-07.47.40:210][  5]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/A_Finish2A71F94E40D97ACB576E218E4BB605B9.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Finish.uasset'
+[2022.12.12-07.47.40:220][  5]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.47.40:220][  5]LogContentValidation: Display: Validating SoundWave /Game/Project/Assets/SoundEffects/A_Finish.A_Finish
+[2022.12.12-07.47.40:220][  5]LogContentValidation: Display: Validating SoundWave /Game/Project/Assets/SoundEffects/A_Death.A_Death
+[2022.12.12-07.47.40:220][  5]LogContentValidation: Display: Validating SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell
+[2022.12.12-07.47.42:402][260]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.47.42:416][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-07.47.42:416][260]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:47:42)
+[2022.12.12-07.47.42:416][260]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.47.42:421][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004930s)
+[2022.12.12-07.47.42:422][260]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.47.42:422][260]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.12.12-07.47.42:422][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.006021s)
+[2022.12.12-07.47.42:428][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.12-07.47.42:429][260]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.47.42:429][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.47.42:429][260]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.47.42:429][260]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.47.42:436][260]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.47.42:436][260]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.47.42:478][260]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.47.42:478][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.47.42:478][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.47.42:478][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.47.42:479][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.47.42:479][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.47.42:479][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.47.42:481][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.47.42:481][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.47.42:481][260]LogInit: FAudioDevice initialized.
+[2022.12.12-07.47.42:481][260]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainScene'.
+[2022.12.12-07.47.42:529][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.47.42:529][260]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.47.42:532][260]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.47.42
+[2022.12.12-07.47.42:532][260]LogWorld: Bringing up level for play took: 0.002568
+[2022.12.12-07.47.42:534][260]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.12.12-07.47.42:538][260]PIE: Server logged in
+[2022.12.12-07.47.42:539][260]PIE: Play in editor total start time 0,127 seconds.
+[2022.12.12-07.48.54:052][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.12-07.48.54:818][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.48.54:824][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.12.12-07.48.54:862][668]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene1165482040301283E444EF8B4E37909E.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.48.54:887][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.48.54:965][668]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData305C48964727192579721B9B3C175054.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.48.54:969][668]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.48.54:969][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.48.54:969][668]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.49.08:713][685]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2022.12.12-07.49.08:808][685]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2022.12.12-07.49.08:817][685]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2022.12.12-07.49.11:641][974]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_Step
+[2022.12.12-07.49.11:714][974]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.12.12-07.49.11:714][974]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.12.12-07.49.11:714][974]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2022.12.12-07.49.11:810][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.12.12-07.49.12:987][ 95]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.49.15:220][ 95]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.12.12-07.49.15:358][ 95]LogSlate: Took 0.009690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.12-07.49.16:198][129]LogNiagara: Compiling System NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step took 4.541423 sec (time since issued), 15.038996 sec (combined shader worker time).
+[2022.12.12-07.49.16:287][136]32341_NS_Step_MessageLog: System successfully compiled.
+[2022.12.12-07.49.16:458][152]LogSlate: Window 'NS_Step' being destroyed
+[2022.12.12-07.49.19:404][433]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Project/Assets/VisualEffects/NS_ToonCloud.NS_ToonCloud
+[2022.12.12-07.49.19:604][433]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.12.12-07.49.19:604][433]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.12.12-07.49.19:604][433]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.12.12-07.49.20:493][481]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.12.12-07.49.21:513][555]LogNiagaraEditor: System NS_ToonCloud has pending compile jobs. Waiting for that code to complete before Closing..
+[2022.12.12-07.49.21:716][555]LogNiagara: Compiling System NiagaraSystem /Game/Project/Assets/VisualEffects/NS_ToonCloud.NS_ToonCloud took 2.306847 sec (time since issued), 6.270803 sec (combined shader worker time).
+[2022.12.12-07.49.21:725][555]LogNiagaraEditor: Warning: Cleanup System view model 0000024CF1893210
+[2022.12.12-07.49.21:809][555]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.49.21:809][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.49.21:825][555]LogNiagaraEditor: Warning: Cleanup System view model 0000024CF1893210
+[2022.12.12-07.49.21:825][555]LogNiagaraEditor: Warning: Deleting System view model 0000024CF1893210
+[2022.12.12-07.49.21:841][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.12-07.49.24:029][738]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.12.12-07.49.24:029][738]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.12.12-07.49.24:868][807]LogNiagara: Compiling System NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step took 0.883296 sec (time since issued), 1.716813 sec (combined shader worker time).
+[2022.12.12-07.49.24:868][807]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset! System(NS_Step) Component(NiagaraComponent /Engine/Transient.NiagaraComponent_0)
+[2022.12.12-07.49.24:882][808]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset! System(NS_Step) Component(NiagaraComponent /Engine/Transient.NiagaraComponent_0)
+[2022.12.12-07.49.25:244][812]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.12.12-07.49.25:244][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.12.12-07.49.25:244][812]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.12.12-07.49.25:877][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.12.12-07.49.26:677][911]LogNiagaraEditor: System NS_Step has pending compile jobs. Waiting for that code to complete before Saving..
+[2022.12.12-07.49.27:045][911]LogNiagara: Compiling System NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step took 2.072867 sec (time since issued), 6.277501 sec (combined shader worker time).
+[2022.12.12-07.49.27:047][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.49.27:197][911]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_StepD1C18E7244E4C946E1A3ACA465DFF2CB.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.49.27:203][911]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.49.27:203][911]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.49.27:476][918]32341_NS_Step_MessageLog: System successfully compiled.
+[2022.12.12-07.49.50:966][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.49.51:130][805]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_Step1B2A26C841BA4F8F84F87C9EDF28525C.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.49.51:139][805]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.49.51:139][805]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.50.01:794][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.12-07.50.04:896][122]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.AM_Goblin_Run
+[2022.12.12-07.50.05:044][122]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.12.12-07.50.05:115][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.12-07.50.05:127][122]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2022.12.12-07.50.07:547][122]LogSlate: Took 0.140824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.12-07.50.07:568][122]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+f0e2)'
+[2022.12.12-07.50.07:765][122]LogSlate: Took 0.193884 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.12.12-07.50.34:364][369]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AM_Goblin_RunAC4E4D9446F3302B1B9D9D8DACA09097.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.uasset'
+[2022.12.12-07.50.34:370][369]AssetCheck: New page: Asset Save: AM_Goblin_Run
+[2022.12.12-07.50.34:370][369]LogContentValidation: Display: Validating AnimMontage /Game/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.AM_Goblin_Run
+[2022.12.12-07.50.37:780][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.50.37:780][612]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.50.37:780][612]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.50.37:781][612]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.50.37:782][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.50.37:793][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.50.37:794][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.50.37:803][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-07.50.37:803][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.50.37:804][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.50.37:820][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.12-07.50.37:848][614]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.12.12-07.50.38:555][688]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.50.38:569][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-07.50.38:569][688]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:50:38)
+[2022.12.12-07.50.38:569][688]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.50.38:575][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005466s)
+[2022.12.12-07.50.38:575][688]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.50.38:575][688]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2022.12.12-07.50.38:575][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.006424s)
+[2022.12.12-07.50.38:582][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.12-07.50.38:583][688]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.50.38:583][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.50.38:583][688]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.50.38:583][688]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.50.38:589][688]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.50.38:589][688]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.50.38:631][688]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.50.38:632][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.50.38:632][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.50.38:632][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.50.38:632][688]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.50.38:632][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.50.38:632][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.50.38:634][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.50.38:634][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.50.38:634][688]LogInit: FAudioDevice initialized.
+[2022.12.12-07.50.38:634][688]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainScene'.
+[2022.12.12-07.50.38:678][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.50.38:678][688]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.50.38:680][688]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.50.38
+[2022.12.12-07.50.38:681][688]LogWorld: Bringing up level for play took: 0.002480
+[2022.12.12-07.50.38:682][688]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.12.12-07.50.38:687][688]PIE: Server logged in
+[2022.12.12-07.50.38:688][688]PIE: Play in editor total start time 0,123 seconds.
+[2022.12.12-07.50.46:730][496]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.50.46:745][496]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.50.46:745][496]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.50.46:746][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.50.46:752][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.50.46:754][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.50.46:763][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.50.46:764][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.50.46:781][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.12-07.50.46:837][500]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.12.12-07.50.48:752][692]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AM_Goblin_RunCBFA6E6C4BD7EE4F01DC7ABAF6D78014.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.uasset'
+[2022.12.12-07.50.48:766][692]AssetCheck: New page: Asset Save: AM_Goblin_Run
+[2022.12.12-07.50.48:766][692]LogContentValidation: Display: Validating AnimMontage /Game/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.AM_Goblin_Run
+[2022.12.12-07.51.06:547][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.51.06:702][710]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_Step3850284844A8AFDCAF5476A48E300BE9.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.51.06:715][710]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.51.06:715][710]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.51.12:418][355]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AM_Goblin_Run0B0E7B1A4C307EA779A6F39D231FD597.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.uasset'
+[2022.12.12-07.51.12:428][355]AssetCheck: New page: Asset Save: AM_Goblin_Run
+[2022.12.12-07.51.12:428][355]LogContentValidation: Display: Validating AnimMontage /Game/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.AM_Goblin_Run
+[2022.12.12-07.51.43:083][944]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AM_Goblin_RunB835E1244AD2AE40D25B2F9E1B857521.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.uasset'
+[2022.12.12-07.51.43:093][944]AssetCheck: New page: Asset Save: AM_Goblin_Run
+[2022.12.12-07.51.43:094][944]LogContentValidation: Display: Validating AnimMontage /Game/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.AM_Goblin_Run
+[2022.12.12-07.51.44:744][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.51.44:758][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-07.51.44:758][100]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:51:44)
+[2022.12.12-07.51.44:758][100]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.51.44:763][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004765s)
+[2022.12.12-07.51.44:763][100]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.51.44:764][100]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2022.12.12-07.51.44:764][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.005750s)
+[2022.12.12-07.51.44:771][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.12.12-07.51.44:771][100]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.12-07.51.44:771][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.51.44:771][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.51.44:771][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.51.44:771][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.51.44:771][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.51.44:772][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.51.44:772][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.51.44:772][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.51.44:772][100]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.51.44:772][100]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.51.44:778][100]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.51.44:778][100]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.51.44:819][100]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.51.44:819][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.51.44:819][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.51.44:819][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.51.44:820][100]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.51.44:820][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.51.44:820][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.51.44:821][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.51.44:822][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.51.44:822][100]LogInit: FAudioDevice initialized.
+[2022.12.12-07.51.44:822][100]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainScene'.
+[2022.12.12-07.51.44:877][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.51.44:878][100]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.51.44:880][100]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.51.44
+[2022.12.12-07.51.44:881][100]LogWorld: Bringing up level for play took: 0.002477
+[2022.12.12-07.51.44:882][100]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.12.12-07.51.44:887][100]PIE: Server logged in
+[2022.12.12-07.51.44:888][100]PIE: Play in editor total start time 0,135 seconds.
+[2022.12.12-07.52.10:881][703]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.52.10:897][703]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.52.10:897][703]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.52.10:898][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.52.10:904][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.52.10:907][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.52.10:916][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-07.52.10:917][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.52.10:917][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.52.10:934][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.12-07.52.11:231][704]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.12-07.52.17:246][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.52.17:397][365]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_Step137110064C82476B956CD784FCCC8DC5.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.52.17:413][365]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.52.17:413][365]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.52.20:680][725]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.52.20:694][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-07.52.20:694][725]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:52:20)
+[2022.12.12-07.52.20:694][725]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.52.20:699][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004844s)
+[2022.12.12-07.52.20:699][725]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.52.20:700][725]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2022.12.12-07.52.20:700][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.005828s)
+[2022.12.12-07.52.20:707][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.12-07.52.20:708][725]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.52.20:708][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.52.20:708][725]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.52.20:708][725]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.52.20:714][725]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.52.20:714][725]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.52.20:757][725]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.52.20:757][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.52.20:757][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.52.20:757][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.52.20:757][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.52.20:757][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.52.20:757][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.52.20:759][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.52.20:759][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.52.20:759][725]LogInit: FAudioDevice initialized.
+[2022.12.12-07.52.20:759][725]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainScene'.
+[2022.12.12-07.52.20:810][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.52.20:810][725]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.52.20:813][725]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.52.20
+[2022.12.12-07.52.20:813][725]LogWorld: Bringing up level for play took: 0.002431
+[2022.12.12-07.52.20:815][725]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.12.12-07.52.20:819][725]PIE: Server logged in
+[2022.12.12-07.52.20:820][725]PIE: Play in editor total start time 0,131 seconds.
+[2022.12.12-07.52.28:373][490]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.52.28:388][490]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.52.28:415][490]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.52.28:416][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.52.28:425][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.52.28:427][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.52.28:437][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-07.52.28:437][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.52.28:438][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.52.28:457][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.12-07.52.28:480][491]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.12.12-07.52.35:879][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.52.36:026][306]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_Step33E904A1471B979AEB97AA983CC34039.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.52.36:038][306]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.52.36:039][306]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.52.44:596][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.52.44:744][289]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_Step7329A54D461C79D7739211B2388BF1F5.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.52.44:754][289]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.52.44:754][289]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.52.45:875][397]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.52.45:889][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-07.52.45:889][397]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:52:45)
+[2022.12.12-07.52.45:889][397]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.52.45:894][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004881s)
+[2022.12.12-07.52.45:895][397]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.52.45:896][397]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2022.12.12-07.52.45:896][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.006271s)
+[2022.12.12-07.52.45:903][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.12-07.52.45:904][397]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.52.45:904][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.52.45:904][397]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.52.45:904][397]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.52.45:910][397]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.52.45:910][397]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.52.45:956][397]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.52.45:957][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.52.45:957][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.52.45:957][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.52.45:957][397]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.52.45:957][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.52.45:957][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.52.45:959][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.52.45:959][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.52.45:959][397]LogInit: FAudioDevice initialized.
+[2022.12.12-07.52.45:959][397]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainScene'.
+[2022.12.12-07.52.46:011][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.52.46:011][397]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.52.46:013][397]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.52.46
+[2022.12.12-07.52.46:014][397]LogWorld: Bringing up level for play took: 0.002391
+[2022.12.12-07.52.46:015][397]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.12.12-07.52.46:020][397]PIE: Server logged in
+[2022.12.12-07.52.46:021][397]PIE: Play in editor total start time 0,136 seconds.
+[2022.12.12-07.53.04:545][259]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.53.04:561][259]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.53.04:585][259]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.53.04:586][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.53.04:600][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.53.04:602][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.53.04:612][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-07.53.04:612][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.53.04:613][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.53.04:631][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.12-07.53.04:652][260]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.12.12-07.53.05:363][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.53.05:370][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.12-07.53.05:409][334]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene389D895A46367A1C33496897E7F07A06.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.53.05:438][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.53.05:524][334]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltDataCA3D2B0C4E14BE9AB11EC0B371A9700A.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.53.05:540][334]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.53.05:540][334]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.53.05:540][334]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.53.06:139][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.12-07.53.12:153][ 17]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AM_Goblin_RunD3C5DF674034B6A62D69B4AD7D32FF71.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.uasset'
+[2022.12.12-07.53.12:164][ 17]AssetCheck: New page: Asset Save: AM_Goblin_Run
+[2022.12.12-07.53.12:164][ 17]LogContentValidation: Display: Validating AnimMontage /Game/UndeadPack/EnemyGoblin/Animations/Montage/AM_Goblin_Run.AM_Goblin_Run
+[2022.12.12-07.53.13:342][150]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.53.13:342][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.53.13:521][150]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.53.13:521][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.53.14:261][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/VisualEffects/NS_Step" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset" SILENT=true
+[2022.12.12-07.53.14:409][216]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/NS_Step4DCE3D894BEB3545A306BB8F5668F1EC.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/VisualEffects/NS_Step.uasset'
+[2022.12.12-07.53.14:419][216]AssetCheck: New page: Asset Save: NS_Step
+[2022.12.12-07.53.14:419][216]LogContentValidation: Display: Validating NiagaraSystem /Game/Project/Assets/VisualEffects/NS_Step.NS_Step
+[2022.12.12-07.53.15:000][281]LogNiagaraEditor: Warning: Cleanup System view model 0000024CC1601610
+[2022.12.12-07.53.15:011][281]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.53.15:011][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.53.15:020][281]LogNiagaraEditor: Warning: Cleanup System view model 0000024CC1601610
+[2022.12.12-07.53.15:020][281]LogNiagaraEditor: Warning: Deleting System view model 0000024CC1601610
+[2022.12.12-07.53.15:033][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.12-07.53.16:035][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.12-07.53.21:461][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.12.12-07.53.23:085][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.12-07.53.23:947][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.53.23:953][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.12.12-07.53.23:991][106]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainSceneABB57D3441F47A81F4ACDCB8E00F1A3E.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.53.24:017][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.53.24:091][106]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData5600B9184D85E99FC531719F5D28BE45.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.53.24:104][106]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.53.24:104][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.53.24:104][106]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.53.35:729][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Button.BP_Button
+[2022.12.12-07.53.36:227][361]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.12.12-07.53.37:506][362]LogSlate: Took 0.025028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.12-07.54.01:020][ 51]BlueprintLog: New page: Compile BP_Button
+[2022.12.12-07.54.01:179][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.12-07.54.01:329][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button.uasset" SILENT=true
+[2022.12.12-07.54.01:379][ 52]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button365BAE804B3936EBF17ADF91C732B38A.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button.uasset'
+[2022.12.12-07.54.01:396][ 52]AssetCheck: New page: Asset Save: BP_Button
+[2022.12.12-07.54.01:396][ 52]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button.BP_Button
+[2022.12.12-07.54.03:767][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-07.54.18:796][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_PrayerWheel" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset" SILENT=true
+[2022.12.12-07.54.18:805][940]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_PrayerWheelB80F519A4A05B0B0935D199A0B4DC06F.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset'
+[2022.12.12-07.54.18:821][940]AssetCheck: New page: Asset Save: BP_Button_PrayerWheel
+[2022.12.12-07.54.18:821][940]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-07.54.19:708][ 43]BlueprintLog: New page: Compile BP_Button_PrayerWheel
+[2022.12.12-07.54.19:744][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.12-07.54.20:080][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_PrayerWheel" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset" SILENT=true
+[2022.12.12-07.54.20:089][ 76]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_PrayerWheel9DDC923743B3AE8BD75476A9E1AD3ADB.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset'
+[2022.12.12-07.54.20:108][ 76]AssetCheck: New page: Asset Save: BP_Button_PrayerWheel
+[2022.12.12-07.54.20:108][ 76]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-07.54.20:888][158]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-07.54.20:901][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-07.54.20:901][158]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 01:54:20)
+[2022.12.12-07.54.20:902][158]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.54.20:907][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005111s)
+[2022.12.12-07.54.20:907][158]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-07.54.20:908][158]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2022.12.12-07.54.20:908][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.006066s)
+[2022.12.12-07.54.20:929][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.12-07.54.20:930][158]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-07.54.20:930][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-07.54.20:930][158]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-07.54.20:930][158]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-07.54.20:935][158]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-07.54.20:935][158]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-07.54.20:979][158]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-07.54.20:979][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-07.54.20:979][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-07.54.20:979][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-07.54.20:979][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-07.54.20:979][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-07.54.20:979][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-07.54.20:981][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-07.54.20:981][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-07.54.20:981][158]LogInit: FAudioDevice initialized.
+[2022.12.12-07.54.20:981][158]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainScene'.
+[2022.12.12-07.54.21:027][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-07.54.21:027][158]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-07.54.21:030][158]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-16.54.21
+[2022.12.12-07.54.21:030][158]LogWorld: Bringing up level for play took: 0.002463
+[2022.12.12-07.54.21:032][158]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.12.12-07.54.21:036][158]PIE: Server logged in
+[2022.12.12-07.54.21:037][158]PIE: Play in editor total start time 0,14 seconds.
+[2022.12.12-07.54.21:854][227]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave A_Bell...
+[2022.12.12-07.54.21:855][227]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell will be modified from 40 to 40.
+[2022.12.12-07.54.22:081][227]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 258720 while cooking SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell.
+[2022.12.12-07.54.22:290][237]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.12.12-07.54.24:470][459]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-07.54.24:486][459]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-07.54.24:487][459]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-07.54.24:487][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.54.24:500][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-07.54.24:504][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-07.54.24:526][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-07.54.24:526][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.54.24:527][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-07.54.24:543][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.12.12-07.54.24:576][461]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.12.12-07.54.25:362][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.54.25:385][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.12-07.54.25:422][543]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene7AA77BAF4733BBFE06D80A9213E888F2.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.54.25:452][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.54.25:536][543]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltDataFC1D0B954CD70847FB3874BD1E18F642.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.54.25:549][543]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.54.25:549][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.54.25:549][543]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-07.57.30:447][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_PrayerWheel" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset" SILENT=true
+[2022.12.12-07.57.30:455][997]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_PrayerWheelEED4FF4E4749EF0FDD28268FB54EFCCD.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset'
+[2022.12.12-07.57.30:475][997]AssetCheck: New page: Asset Save: BP_Button_PrayerWheel
+[2022.12.12-07.57.30:475][997]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-07.57.31:979][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-07.57.32:003][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.12-07.57.32:043][158]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainSceneA80820BC4094162DD5C898B9A11460E9.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-07.57.32:068][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-07.57.32:153][158]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData241C0F6944DA73850A83D19943AE2FBB.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-07.57.32:165][158]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-07.57.32:165][158]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-07.57.32:165][158]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.02.06:106][581]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-08.02.06:106][581]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-08.03.59:000][912]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell
+[2022.12.12-08.04.03:097][269]LogSlate: Window 'A_Bell' being destroyed
+[2022.12.12-08.04.32:054][445]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-08.04.32:054][445]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-08.04.36:002][882]LogContentBrowser: Attempting asset rename: A_Bell -> A_Bell
+[2022.12.12-08.04.38:749][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.12-08.04.39:878][171]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-08.04.45:173][771]BlueprintLog: New page: Compile BP_Button_PrayerWheel
+[2022.12.12-08.04.45:209][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.12-08.04.45:527][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_PrayerWheel" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset" SILENT=true
+[2022.12.12-08.04.45:536][804]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_PrayerWheelCC2CD83D48168AAE19E23EA43CD8B754.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset'
+[2022.12.12-08.04.45:555][804]AssetCheck: New page: Asset Save: BP_Button_PrayerWheel
+[2022.12.12-08.04.45:555][804]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-08.04.50:821][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.12-08.04.51:758][380]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-08.04.51:893][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.12.12-08.04.51:914][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.12.12-08.04.51:940][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.12.12-08.04.51:959][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.12-08.04.52:861][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.12-08.04.53:804][477]LogSlate: Window 'Save Content' being destroyed
+[2022.12.12-08.04.53:827][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.04.53:848][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.12-08.04.53:907][477]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene3DA91EB04E5F1F6C4FF6C484B2B33F8A.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.04.53:933][477]LogFileHelpers: Saving map 'MainScene' took 0.106
+[2022.12.12-08.04.53:943][477]AssetCheck: New page: Asset Save: MainScene
+[2022.12.12-08.04.53:943][477]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.04.58:489][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.12-08.05.04:760][ 52]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:\[] MiniBattle\SoundEffects\A_Finish.wav)
+[2022.12.12-08.05.04:764][ 52]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:\[] MiniBattle\SoundEffects\A_Bell.wav)
+[2022.12.12-08.05.06:194][136]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave A_Bell...
+[2022.12.12-08.05.06:194][136]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell will be modified from 40 to 40.
+[2022.12.12-08.05.06:227][136]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 301104 while cooking SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell.
+[2022.12.12-08.05.08:208][345]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave A_Death...
+[2022.12.12-08.05.08:208][345]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Project/Assets/SoundEffects/A_Death.A_Death will be modified from 40 to 40.
+[2022.12.12-08.05.08:232][345]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 294000 while cooking SoundWave /Game/Project/Assets/SoundEffects/A_Death.A_Death.
+[2022.12.12-08.05.09:214][447]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave A_Finish...
+[2022.12.12-08.05.09:214][447]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Project/Assets/SoundEffects/A_Finish.A_Finish will be modified from 40 to 40.
+[2022.12.12-08.05.09:230][447]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 258720 while cooking SoundWave /Game/Project/Assets/SoundEffects/A_Finish.A_Finish.
+[2022.12.12-08.05.15:005][ 99]BlueprintLog: New page: Compile BP_Button_PrayerWheel
+[2022.12.12-08.05.15:048][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.12-08.05.15:342][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Button_PrayerWheel" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset" SILENT=true
+[2022.12.12-08.05.15:352][129]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Button_PrayerWheel8ACE71CC4BA26C0B29150C9BA20EDE92.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Button_PrayerWheel.uasset'
+[2022.12.12-08.05.15:363][129]AssetCheck: New page: Asset Save: BP_Button_PrayerWheel
+[2022.12.12-08.05.15:363][129]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Button_PrayerWheel.BP_Button_PrayerWheel
+[2022.12.12-08.05.37:442][464]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:\[] MiniBattle\SoundEffects\A_Spawn.wav)
+[2022.12.12-08.05.39:149][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.12-08.05.39:815][574]LogSlate: Window 'Save Content' being destroyed
+[2022.12.12-08.05.39:846][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/SoundEffects/A_Bell" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Bell.uasset" SILENT=true
+[2022.12.12-08.05.39:866][574]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/A_Bell7B6810BB4E0A7154A1AC1FB0A97301F0.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Bell.uasset'
+[2022.12.12-08.05.39:870][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/SoundEffects/A_Finish" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Finish.uasset" SILENT=true
+[2022.12.12-08.05.39:880][574]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/A_Finish0F0987B4446392A583DA799AD0C3D4B5.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Finish.uasset'
+[2022.12.12-08.05.39:884][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Assets/SoundEffects/A_Spawn" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Spawn.uasset" SILENT=true
+[2022.12.12-08.05.39:893][574]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/A_Spawn120722A44443702D889DEB9B8717AFA7.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Assets/SoundEffects/A_Spawn.uasset'
+[2022.12.12-08.05.39:894][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.05.39:917][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.12-08.05.39:953][574]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene3F4EA5244E79CFD0418107BD3017B8F1.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.05.39:975][574]LogFileHelpers: Saving map 'MainScene' took 0.081
+[2022.12.12-08.05.39:988][574]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-08.05.39:988][574]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.05.39:988][574]LogContentValidation: Display: Validating SoundWave /Game/Project/Assets/SoundEffects/A_Finish.A_Finish
+[2022.12.12-08.05.39:988][574]LogContentValidation: Display: Validating SoundWave /Game/Project/Assets/SoundEffects/A_Spawn.A_Spawn
+[2022.12.12-08.05.39:988][574]LogContentValidation: Display: Validating SoundWave /Game/Project/Assets/SoundEffects/A_Bell.A_Bell
+[2022.12.12-08.05.40:542][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.05.40:562][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.12-08.05.40:606][632]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene86DBD70D410502B832DBFDA31D1F65DB.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.05.40:628][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-08.05.40:700][632]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData7D23F0214BA9133E074ECAA5A32D5CC0.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-08.05.40:712][632]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-08.05.40:712][632]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-08.05.40:712][632]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.05.46:209][196]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.12-08.06.03:555][ 93]BlueprintLog: New page: Compile BP_Unit
+[2022.12.12-08.06.03:618][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.12-08.06.03:995][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset" SILENT=true
+[2022.12.12-08.06.04:016][130]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Unit582AEF5A46E6BD178346CCB190948DAD.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset'
+[2022.12.12-08.06.04:033][130]AssetCheck: New page: Asset Save: BP_Unit
+[2022.12.12-08.06.04:033][130]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.12-08.06.08:493][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.06.08:518][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.12-08.06.08:554][615]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene0D63F70A4C797C659BB27BB17B3B98B7.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.06.08:580][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-08.06.08:660][615]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltDataF8AB9C02409AAD8D73DD83B839331709.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-08.06.08:672][615]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-08.06.08:672][615]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-08.06.08:672][615]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.06.09:220][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.12-08.06.20:830][983]BlueprintLog: New page: Compile BP_Unit
+[2022.12.12-08.06.20:890][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.12-08.06.21:276][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset" SILENT=true
+[2022.12.12-08.06.21:299][ 23]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Unit09F88D8340F638DB00EDBEAFFF4159EB.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset'
+[2022.12.12-08.06.21:315][ 23]AssetCheck: New page: Asset Save: BP_Unit
+[2022.12.12-08.06.21:315][ 23]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.12-08.06.23:323][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Core/AIC_Unit.AIC_Unit
+[2022.12.12-08.06.25:792][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Core/AIC_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset" SILENT=true
+[2022.12.12-08.06.25:839][480]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AIC_Unit30F7259A475BE108F2BD8AA3A1438C32.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset'
+[2022.12.12-08.06.25:859][480]AssetCheck: New page: Asset Save: AIC_Unit
+[2022.12.12-08.06.25:860][480]LogContentValidation: Display: Validating Blueprint /Game/Project/Core/AIC_Unit.AIC_Unit
+[2022.12.12-08.06.50:228][215]BlueprintLog: New page: Compile AIC_Unit
+[2022.12.12-08.06.50:285][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.12-08.06.50:643][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Core/AIC_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset" SILENT=true
+[2022.12.12-08.06.50:701][245]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AIC_UnitFC800EEA47EE61622837358013A7B8CC.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset'
+[2022.12.12-08.06.50:717][245]AssetCheck: New page: Asset Save: AIC_Unit
+[2022.12.12-08.06.50:717][245]LogContentValidation: Display: Validating Blueprint /Game/Project/Core/AIC_Unit.AIC_Unit
+[2022.12.12-08.07.43:451][136]BlueprintLog: New page: Compile AIC_Unit
+[2022.12.12-08.07.43:536][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.12-08.07.43:808][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Core/AIC_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset" SILENT=true
+[2022.12.12-08.07.43:865][153]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AIC_UnitF7DF4B054CC2698429C8088014FC87B3.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset'
+[2022.12.12-08.07.43:881][153]AssetCheck: New page: Asset Save: AIC_Unit
+[2022.12.12-08.07.43:881][153]LogContentValidation: Display: Validating Blueprint /Game/Project/Core/AIC_Unit.AIC_Unit
+[2022.12.12-08.07.44:750][239]LogSlate: Window 'AIC_Unit' being destroyed
+[2022.12.12-08.07.45:593][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.07.45:622][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.12.12-08.07.45:659][321]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene13ECC6CD43FF48FAE39E0DA79CAE4D10.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.07.45:682][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-08.07.45:756][321]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltDataC9BA7DA8424B48D574F357BA890B4E25.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-08.07.45:770][321]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-08.07.45:770][321]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-08.07.45:770][321]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.07.46:130][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.12-08.07.46:969][436]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-08.07.46:984][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-08.07.46:984][436]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 02:07:46)
+[2022.12.12-08.07.46:984][436]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-08.07.46:989][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004997s)
+[2022.12.12-08.07.46:990][436]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-08.07.46:990][436]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2022.12.12-08.07.46:990][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.005935s)
+[2022.12.12-08.07.47:016][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.12.12-08.07.47:016][436]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-08.07.47:016][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-08.07.47:016][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-08.07.47:017][436]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-08.07.47:017][436]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-08.07.47:023][436]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-08.07.47:023][436]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-08.07.47:067][436]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-08.07.47:067][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-08.07.47:067][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-08.07.47:067][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-08.07.47:067][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-08.07.47:067][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-08.07.47:067][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-08.07.47:070][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-08.07.47:070][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-08.07.47:070][436]LogInit: FAudioDevice initialized.
+[2022.12.12-08.07.47:070][436]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainScene'.
+[2022.12.12-08.07.47:124][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-08.07.47:124][436]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-08.07.47:127][436]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-17.07.47
+[2022.12.12-08.07.47:127][436]LogWorld: Bringing up level for play took: 0.002725
+[2022.12.12-08.07.47:129][436]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.12.12-08.07.47:134][436]PIE: Server logged in
+[2022.12.12-08.07.47:134][436]PIE: Play in editor total start time 0,154 seconds.
+[2022.12.12-08.07.48:806][596]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave A_Spawn...
+[2022.12.12-08.07.48:806][596]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Project/Assets/SoundEffects/A_Spawn.A_Spawn will be modified from 40 to 40.
+[2022.12.12-08.07.48:825][596]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 213796 while cooking SoundWave /Game/Project/Assets/SoundEffects/A_Spawn.A_Spawn.
+[2022.12.12-08.08.20:861][976]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-08.08.20:879][976]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-08.08.20:906][976]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-08.08.20:907][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-08.08.20:917][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-08.08.20:921][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-08.08.20:951][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-08.08.20:951][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-08.08.20:952][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-08.08.20:971][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.12-08.08.20:993][977]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.12-08.08.21:776][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.08.21:803][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.12-08.08.21:841][ 59]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene48A558134D1011E541F127A4D8E719BD.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.08.21:869][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-08.08.21:942][ 59]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltDataCD012C954F372FF115A1B087A8B7C78D.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-08.08.21:956][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-08.08.21:956][ 59]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-08.08.21:956][ 59]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.08.43:607][499]BlueprintLog: New page: Compile AIC_Unit
+[2022.12.12-08.08.43:669][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.12-08.08.43:959][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Core/AIC_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset" SILENT=true
+[2022.12.12-08.08.44:007][522]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/AIC_Unit67C7BBBF415D83F989326084570A4C63.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Core/AIC_Unit.uasset'
+[2022.12.12-08.08.44:017][522]AssetCheck: New page: Asset Save: AIC_Unit
+[2022.12.12-08.08.44:017][522]LogContentValidation: Display: Validating Blueprint /Game/Project/Core/AIC_Unit.AIC_Unit
+[2022.12.12-08.08.46:525][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-08.08.46:553][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.12-08.08.46:591][796]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainSceneACF92E2C493B190FB882B9BF6341AC36.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene.umap'
+[2022.12.12-08.08.46:616][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/MainScene_BuiltData" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset" SILENT=true
+[2022.12.12-08.08.46:699][796]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/MainScene_BuiltData055DD87F4E2173AC80E0219A690F0190.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Maps/MainScene_BuiltData.uasset'
+[2022.12.12-08.08.46:712][796]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-08.08.46:712][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/MainScene_BuiltData.MainScene_BuiltData
+[2022.12.12-08.08.46:712][796]LogContentValidation: Display: Validating World /Game/Project/Maps/MainScene.MainScene
+[2022.12.12-08.08.47:131][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.12.12-08.09.11:338][617]BlueprintLog: New page: Compile BP_Unit
+[2022.12.12-08.09.11:411][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.12.12-08.09.11:725][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset" SILENT=true
+[2022.12.12-08.09.11:748][645]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Unit96DB6B8743627D02545A8EB69E16EAFE.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset'
+[2022.12.12-08.09.11:767][645]AssetCheck: New page: Asset Save: BP_Unit
+[2022.12.12-08.09.11:767][645]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.12-08.09.39:757][859]BlueprintLog: New page: Compile BP_Unit
+[2022.12.12-08.09.39:822][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.12-08.09.40:174][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset" SILENT=true
+[2022.12.12-08.09.40:197][892]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_Unit901B30AC4B80F583E88B22A2B3868934.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset'
+[2022.12.12-08.09.40:212][892]AssetCheck: New page: Asset Save: BP_Unit
+[2022.12.12-08.09.40:212][892]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.12-08.09.41:425][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Blueprints/BP_Unit" FILE="../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset" SILENT=true
+[2022.12.12-08.09.41:448][ 23]LogSavePackage: Moving '../../../../../../UE4_Project/TestButton/TestButton/Saved/BP_UnitF06B23974239A25B7A3F519C17E6CD4C.tmp' to '../../../../../../UE4_Project/TestButton/TestButton/Content/Project/Blueprints/BP_Unit.uasset'
+[2022.12.12-08.09.41:466][ 23]AssetCheck: New page: Asset Save: BP_Unit
+[2022.12.12-08.09.41:466][ 23]LogContentValidation: Display: Validating Blueprint /Game/Project/Blueprints/BP_Unit.BP_Unit
+[2022.12.12-08.09.42:398][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-08.09.42:411][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-08.09.42:411][126]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 02:09:42)
+[2022.12.12-08.09.42:411][126]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-08.09.42:416][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004796s)
+[2022.12.12-08.09.42:416][126]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-08.09.42:416][126]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2022.12.12-08.09.42:417][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.005811s)
+[2022.12.12-08.09.42:444][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.12-08.09.42:444][126]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.12.12-08.09.42:444][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-08.09.42:445][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-08.09.42:445][126]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-08.09.42:445][126]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-08.09.42:451][126]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-08.09.42:451][126]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-08.09.42:493][126]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-08.09.42:493][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-08.09.42:493][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-08.09.42:493][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-08.09.42:493][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-08.09.42:494][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-08.09.42:494][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-08.09.42:496][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-08.09.42:496][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-08.09.42:496][126]LogInit: FAudioDevice initialized.
+[2022.12.12-08.09.42:496][126]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainScene'.
+[2022.12.12-08.09.42:540][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-08.09.42:541][126]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-08.09.42:543][126]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-17.09.42
+[2022.12.12-08.09.42:543][126]LogWorld: Bringing up level for play took: 0.002314
+[2022.12.12-08.09.42:545][126]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.12.12-08.09.42:547][126]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.12-08.09.42:550][126]PIE: Server logged in
+[2022.12.12-08.09.42:551][126]PIE: Play in editor total start time 0,144 seconds.
+[2022.12.12-08.09.47:465][634]LogSlate: Window 'TestButton Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-08.09.47:479][634]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-08.09.47:506][634]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-08.09.47:507][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-08.09.47:519][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-08.09.47:523][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-08.09.47:549][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-08.09.47:549][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-08.09.47:550][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-08.09.47:566][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.12.12-08.09.47:591][635]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.12.12-08.09.48:722][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-08.09.48:735][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-08.09.48:736][743]PIE: New page: PIE session: MainScene (13 дек. 2022 г., 02:09:48)
+[2022.12.12-08.09.48:736][743]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_MainScene
+[2022.12.12-08.09.48:741][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004981s)
+[2022.12.12-08.09.48:741][743]LogAIModule: Creating AISystem for world MainScene
+[2022.12.12-08.09.48:742][743]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2022.12.12-08.09.48:742][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/MainScene.MainScene to /Game/Project/Maps/UEDPIE_0_MainScene.MainScene (0.005924s)
+[2022.12.12-08.09.48:768][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.12.12-08.09.48:768][743]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-08.09.48:768][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-08.09.48:768][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-08.09.48:769][743]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-08.09.48:769][743]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-08.09.48:774][743]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-08.09.48:774][743]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-08.09.48:816][743]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.12.12-08.09.48:817][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-08.09.48:817][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-08.09.48:817][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-08.09.48:817][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-08.09.48:817][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-08.09.48:817][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-08.09.48:819][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-08.09.48:819][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-08.09.48:819][743]LogInit: FAudioDevice initialized.
+[2022.12.12-08.09.48:819][743]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainScene'.
+[2022.12.12-08.09.48:873][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-08.09.48:874][743]LogLoad: Game class is 'BP_GameMode_C'
+[2022.12.12-08.09.48:876][743]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2022.12.12-17.09.48
+[2022.12.12-08.09.48:877][743]LogWorld: Bringing up level for play took: 0.002472
+[2022.12.12-08.09.48:878][743]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.12.12-08.09.48:883][743]PIE: Server logged in
+[2022.12.12-08.09.48:884][743]PIE: Play in editor total start time 0,153 seconds.
+[2022.12.12-08.09.57:958][654]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+BP_Button_C.ExecuteUbergraph_BP_Button
+
+[2022.12.12-08.09.57:958][654]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2022.12.12-08.10.27:917][654]LogWindows: Error: === Critical error: ===
+[2022.12.12-08.10.27:917][654]LogWindows: Error: 
+[2022.12.12-08.10.27:917][654]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/ScriptCore.cpp] [Line: 1308] 
+[2022.12.12-08.10.27:917][654]LogWindows: Error: Failed to find function PlayAnimDeath in BP_Unit_Goblin_C /Game/Project/Maps/UEDPIE_0_MainScene.MainScene:PersistentLevel.BP_Unit_Goblin_C_0
+[2022.12.12-08.10.27:917][654]LogWindows: Error: 
+[2022.12.12-08.10.27:917][654]LogWindows: Error: 
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd5584cd29 KERNELBASE.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd133bd066 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd133c07a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd130ce8cd UE4Editor-Core.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13fc30f1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13ffda32 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13fcf7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13fd22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13fd1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13d42604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd13fd0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffcf852c435 UE4Editor-Engine.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffcf8e49988 UE4Editor-Engine.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffcf8e29128 UE4Editor-Engine.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffcf8e468a3 UE4Editor-Engine.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd11089423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd119a50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ff60ec99bc2 UE4Editor.exe!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ff60ecb117c UE4Editor.exe!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ff60ecb125a UE4Editor.exe!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ff60ecc52bd UE4Editor.exe!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ff60ecc7fea UE4Editor.exe!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd572c74b4 KERNEL32.DLL!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: [Callstack] 0x00007ffd57de26a1 ntdll.dll!UnknownFunction []
+[2022.12.12-08.10.27:917][654]LogWindows: Error: 
+[2022.12.12-08.10.27:932][654]LogExit: Executing StaticShutdownAfterError
+[2022.12.12-08.10.28:468][654]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.12.12-08.10.28:468][654]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.12-08.10.28:529][654]Log file closed, 12/12/22 17:10:28
