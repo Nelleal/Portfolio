@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Projects\VS\SFML_2\SFML_2\Main.cpp(101,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Projects\VS\SFML_2\SFML_2\Main.cpp(101,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Projects\VS\SFML_2\SFML_2\Main.cpp(108,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Projects\VS\SFML_2\SFML_2\Main.cpp(110,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Projects\VS\SFML_2\SFML_2\Main.cpp(110,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Projects\VS\SFML_2\SFML_2\Main.cpp(138,19): warning C4305: инициализация: усечение из "double" в "float"
+  SFML_2.vcxproj -> C:\Projects\VS\SFML_2\SFML_2\x64\Debug\SFML_2.exe
